@@ -120,6 +120,8 @@ public class MainActivity extends FragmentActivity {
         setContentView(R.layout.activity_main);
 
 
+
+
         initWidget();
 
         //progressDialog = new ProgressDialog(this);
