@@ -5,301 +5,18 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eb3580e2-38a9-4f67-8e54-e492cf12ce0f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/goldplayer/debug/com/ilike/hd4k/test/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/Autoupdater$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/Autoupdater$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/Autoupdater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$20$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$DialogComingFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$DialogComingFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$DownloadLastMovie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$RefillCodeTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity$installgold.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/Mxplayer$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/Mxplayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/NewsActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/OtherData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchActivity$SearchTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchSRActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchSRActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchSRActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchSRActivity$SearchTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SearchSRActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/ServiceCheck$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/ServiceCheck$CheckTokenTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/ServiceCheck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SplashScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SplashScreen$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SplashScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/SportActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/UpdateCheck$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/UpdateCheck$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/UpdateCheck$1$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/UpdateCheck$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/UpdateCheck$installgold.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/UpdateCheck.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/WebViewPayPalActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/WebViewPayPalActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/com/royle/tv4k/WifiConnections.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/patayatvok_19may.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileGoldplayerDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_librarySlider_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_librarySlider_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_librarySlider_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_librarySlider_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_librarySlider_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_librarySlider_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$DonwloadIpTvTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$DonwloadIpTvTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$SelectListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity$SelectListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$CheckAccessTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$CheckAccessTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$DownloadDataTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity$DownloadDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/EbookCategoryAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/WebViewEbookActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/ebook/WebViewEbookActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvActivity$SelectListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvActivity$SelectListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvCategoryAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/IpTvCategoryAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$CheckAccessTask$installgold.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$CheckAccessTask$installgold.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$CheckAccessTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$CheckAccessTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$DownloadDataTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity$DownloadDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/iptv/TvCategoryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/meklib/KeepAlive$KeepAliveTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/meklib/KeepAlive$KeepAliveTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieActivity$SelectListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieActivity$SelectListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieCategoryActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieCategoryActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieCategoryActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieCategoryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieCategoryAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieCategoryAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$CheckAccessTask$installgold.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$CheckAccessTask$installgold.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$CheckAccessTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity$CheckAccessTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/movie/MovieDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesActivity$SelectListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesActivity$SelectListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesCategoryActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesCategoryActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesCategoryActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesCategoryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesCategoryAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesCategoryAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$CheckAccessTask$installgold.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$CheckAccessTask$installgold.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$CheckAccessTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$CheckAccessTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$DownloadTask$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$DownloadTask$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$DownloadTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity$DownloadTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/series/SeriesDetailAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ChangePassActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ChangePassActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ChangePassActivity$changePassTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ChangePassActivity$changePassTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ChangePassActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ChangePassActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/CheckTrueMoneyActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/CheckTrueMoneyActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/CheckTrueMoneyActivity$SentTrueMonetTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/CheckTrueMoneyActivity$SentTrueMonetTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/CheckTrueMoneyActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/CheckTrueMoneyActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ErrorActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ErrorActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ErrorActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/ErrorActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$CheckAccessTask$installgold.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$CheckAccessTask$installgold.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$CheckAccessTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$CheckAccessTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$DownloadDataTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity$DownloadDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/HowtoAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$LoginTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity$LoginTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/LoginActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/MailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/MailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$4$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$RefillCodeTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity$RefillCodeTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RefillActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity$registerTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity$registerTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/RegisterActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/SupportActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$4$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$getIpTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity$getIpTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/goldplayer/debug/user/UserProfileActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-goldplayer-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-goldplayer-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-goldplayer-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-goldplayer-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/goldplayer/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/goldplayer/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/outputs/aar/librarySlider-debug.aar" afterPath="$PROJECT_DIR$/librarySlider/build/outputs/aar/librarySlider-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/outputs/aar/librarySlider-release.aar" afterPath="$PROJECT_DIR$/librarySlider/build/outputs/aar/librarySlider-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/goldplayer/debug/com/royle/tvmaster/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/goldplayer/debug/com/royle/tvmaster/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/goldplayer/debug/com/royle/tvmaster/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/goldplayer/debug/com/royle/tvmaster/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values-w820dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable-xxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-large-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-large-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-small-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-small-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-xlarge-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout-xlarge-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/menu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/goldplayer/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeGoldplayerDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageGoldplayerDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageGoldplayerDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageGoldplayerDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageGoldplayerDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/goldplayer/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/goldplayer/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/goldplayer/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/goldplayer/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-land/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-land/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_download.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_download.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_news.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_news.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_web_view_pay_pal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/activity_web_view_pay_pal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/webview_sport.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-large-v4/webview_sport.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_download.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_download.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_news.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_news.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_web_view_pay_pal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/activity_web_view_pay_pal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/webview_sport.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-small-v4/webview_sport.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_download.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_download.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_news.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_news.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_web_view_pay_pal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/activity_web_view_pay_pal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/webview_sport.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout-xlarge-v4/webview_sport.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_download.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_download.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_news.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_news.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_web_view_pay_pal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/activity_web_view_pay_pal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/webview_sport.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/layout/webview_sport.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/ebook.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/ebook.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/ebook_category.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/ebook_category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/ip_tv.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/ip_tv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/movie.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/movie.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/movie_category.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/movie_category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/movie_detail.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/movie_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/news.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/news.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/refill.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/refill.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/search.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/series.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/series.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/series_detail.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/series_detail.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/tv_category.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/tv_category.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/user_profile.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/user_profile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/web_view_ebook.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/menu/web_view_ebook.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/goldplayer/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-goldplayer-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-goldplayer-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/generated/source/buildConfig/androidTest/debug/com/daimajia/slider/library/test/BuildConfig.java" afterPath="$PROJECT_DIR$/librarySlider/build/generated/source/buildConfig/androidTest/debug/com/daimajia/slider/library/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/generated/source/buildConfig/debug/com/daimajia/slider/library/BuildConfig.java" afterPath="$PROJECT_DIR$/librarySlider/build/generated/source/buildConfig/debug/com/daimajia/slider/library/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/generated/source/buildConfig/release/com/daimajia/slider/library/BuildConfig.java" afterPath="$PROJECT_DIR$/librarySlider/build/generated/source/buildConfig/release/com/daimajia/slider/library/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/single/layout.json" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/default/AndroidManifest.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/default/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/default/res/values/values.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/bundles/default/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/mergeReleaseShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/librarySlider/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/librarySlider/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
     </list>
     <ignored path="patayatvok_19may.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -367,8 +84,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+            <state relative-caret-position="221">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -377,8 +94,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="357">
+              <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -2519,7 +2236,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="F:\myproject\patayatvok_19may" value="7475826900360" />
-        <entry key="F:\myproject\patayatvok_19may1" value="7475870570125" />
+        <entry key="F:\myproject\patayatvok_19may1" value="7475872886753" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2930,6 +2647,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
@@ -3012,27 +2730,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patayatvok_19may1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patayatvok_19may1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patayatvok_19may" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="patayatvok_19may" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
@@ -3046,7 +2769,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="ExportApk.ApkPath" value="C:\Users\ubc15\Desktop" />
-    <property name="ExportApk.Flavors" value="goldplayer" />
+    <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
     <property name="ExportApk.SignV1" value="true" />
   </component>
@@ -3389,12 +3112,19 @@
       <option name="project" value="LOCAL" />
       <updated>1495165051398</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create san">
+      <created>1495175467152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1495175467152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3402,7 +3132,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3306189" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3448,7 +3178,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change jks" />
     <MESSAGE value="Update All File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update All File" />
+    <MESSAGE value="create san" />
+    <option name="LAST_COMMIT_MESSAGE" value="create san" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3473,8 +3204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="357">
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
           <folding />
         </state>
       </provider>
@@ -3484,8 +3215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        <state relative-caret-position="221">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding />
         </state>
       </provider>
