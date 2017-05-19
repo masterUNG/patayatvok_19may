@@ -5,7 +5,7 @@ android {
         eweatthailand {
             keyAlias 'eweatthailand'
             keyPassword 'z1q2w3e4r5t'
-            storeFile file('F:/Library/eweatthailand.jks')
+            storeFile file('/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/jks/eweatthailand.jks')
             storePassword 'z1q2w3e4r5t'
         }
     }

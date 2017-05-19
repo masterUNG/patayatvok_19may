@@ -283,39 +283,39 @@ containing a value of this type.
         public static int indicator_corner_bg=0x7f020001;
     }
     public static final class id {
-        public static int Accordion=0x7f040005;
-        public static int Background2Foreground=0x7f040006;
-        public static int CubeIn=0x7f040007;
-        public static int Default=0x7f040004;
-        public static int DepthPage=0x7f040008;
-        public static int Fade=0x7f040009;
-        public static int FlipHorizontal=0x7f04000a;
-        public static int FlipPage=0x7f04000b;
-        public static int Foreground2Background=0x7f04000c;
-        public static int RotateDown=0x7f04000d;
-        public static int RotateUp=0x7f04000e;
-        public static int Stack=0x7f04000f;
-        public static int Tablet=0x7f040010;
-        public static int ZoomIn=0x7f040011;
-        public static int ZoomOut=0x7f040013;
-        public static int ZoomOutSlide=0x7f040012;
-        public static int daimajia_indicator_wrapper=0x7f040014;
-        public static int daimajia_slider_image=0x7f040015;
-        public static int daimajia_slider_viewpager=0x7f04001a;
-        public static int default_bottom_left_indicator=0x7f04001d;
-        public static int default_bottom_right_indicator=0x7f04001c;
-        public static int default_center_bottom_indicator=0x7f04001b;
-        public static int default_center_top_indicator=0x7f04001e;
-        public static int default_center_top_left_indicator=0x7f040020;
-        public static int default_center_top_right_indicator=0x7f04001f;
-        public static int description_layout=0x7f040017;
-        public static int invisible=0x7f040001;
-        public static int loading_bar=0x7f040016;
-        public static int oval=0x7f040002;
-        public static int rect=0x7f040003;
-        public static int txtDate_render=0x7f040019;
-        public static int txtName_render=0x7f040018;
-        public static int visible=0x7f040000;
+        public static int Accordion=0x7f060004;
+        public static int Background2Foreground=0x7f060005;
+        public static int CubeIn=0x7f060006;
+        public static int Default=0x7f060007;
+        public static int DepthPage=0x7f060008;
+        public static int Fade=0x7f060009;
+        public static int FlipHorizontal=0x7f06000a;
+        public static int FlipPage=0x7f06000b;
+        public static int Foreground2Background=0x7f06000c;
+        public static int RotateDown=0x7f06000d;
+        public static int RotateUp=0x7f06000e;
+        public static int Stack=0x7f06000f;
+        public static int Tablet=0x7f060010;
+        public static int ZoomIn=0x7f060011;
+        public static int ZoomOut=0x7f060012;
+        public static int ZoomOutSlide=0x7f060013;
+        public static int daimajia_indicator_wrapper=0x7f060014;
+        public static int daimajia_slider_image=0x7f060015;
+        public static int daimajia_slider_viewpager=0x7f06001a;
+        public static int default_bottom_left_indicator=0x7f06001d;
+        public static int default_bottom_right_indicator=0x7f06001c;
+        public static int default_center_bottom_indicator=0x7f06001b;
+        public static int default_center_top_indicator=0x7f06001e;
+        public static int default_center_top_left_indicator=0x7f060020;
+        public static int default_center_top_right_indicator=0x7f06001f;
+        public static int description_layout=0x7f060017;
+        public static int invisible=0x7f060000;
+        public static int loading_bar=0x7f060016;
+        public static int oval=0x7f060002;
+        public static int rect=0x7f060003;
+        public static int txtDate_render=0x7f060019;
+        public static int txtName_render=0x7f060018;
+        public static int visible=0x7f060001;
     }
     public static final class layout {
         public static int indicator_layout=0x7f030000;
@@ -324,12 +324,12 @@ containing a value of this type.
         public static int slider_layout=0x7f030003;
     }
     public static final class string {
-        public static int app_name=0x7f050000;
+        public static int app_name=0x7f040000;
     }
     public static final class style {
-        public static int AndroidImageSlider_Attractive_Rect_Blue=0x7f060000;
-        public static int AndroidImageSlider_Corner_Oval_Orange=0x7f060001;
-        public static int AndroidImageSlider_Magnifier_Oval_Black=0x7f060002;
+        public static int AndroidImageSlider_Attractive_Rect_Blue=0x7f050000;
+        public static int AndroidImageSlider_Corner_Oval_Orange=0x7f050001;
+        public static int AndroidImageSlider_Magnifier_Oval_Black=0x7f050002;
     }
     public static final class styleable {
         /** Attributes that can be used with a PagerIndicator.
@@ -407,7 +407,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:padding_bottom
         */
-        public static final int PagerIndicator_padding_bottom = 13;
+        public static int PagerIndicator_padding_bottom = 13;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#padding_left}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -423,7 +423,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:padding_left
         */
-        public static final int PagerIndicator_padding_left = 10;
+        public static int PagerIndicator_padding_left = 10;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#padding_right}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -439,7 +439,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:padding_right
         */
-        public static final int PagerIndicator_padding_right = 11;
+        public static int PagerIndicator_padding_right = 11;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#padding_top}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -455,7 +455,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:padding_top
         */
-        public static final int PagerIndicator_padding_top = 12;
+        public static int PagerIndicator_padding_top = 12;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_color}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -470,7 +470,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_color
         */
-        public static final int PagerIndicator_selected_color = 2;
+        public static int PagerIndicator_selected_color = 2;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_drawable}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -480,7 +480,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.daimajia.slider.library:selected_drawable
         */
-        public static final int PagerIndicator_selected_drawable = 4;
+        public static int PagerIndicator_selected_drawable = 4;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_height}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -496,7 +496,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_height
         */
-        public static final int PagerIndicator_selected_height = 7;
+        public static int PagerIndicator_selected_height = 7;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_padding_bottom}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -512,7 +512,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_padding_bottom
         */
-        public static final int PagerIndicator_selected_padding_bottom = 17;
+        public static int PagerIndicator_selected_padding_bottom = 17;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_padding_left}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -528,7 +528,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_padding_left
         */
-        public static final int PagerIndicator_selected_padding_left = 14;
+        public static int PagerIndicator_selected_padding_left = 14;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_padding_right}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -544,7 +544,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_padding_right
         */
-        public static final int PagerIndicator_selected_padding_right = 15;
+        public static int PagerIndicator_selected_padding_right = 15;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_padding_top}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -560,7 +560,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_padding_top
         */
-        public static final int PagerIndicator_selected_padding_top = 16;
+        public static int PagerIndicator_selected_padding_top = 16;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#selected_width}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -576,7 +576,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:selected_width
         */
-        public static final int PagerIndicator_selected_width = 6;
+        public static int PagerIndicator_selected_width = 6;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#shape}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -593,7 +593,7 @@ containing a value of this type.
 </table>
           @attr name com.daimajia.slider.library:shape
         */
-        public static final int PagerIndicator_shape = 1;
+        public static int PagerIndicator_shape = 1;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_color}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -608,7 +608,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_color
         */
-        public static final int PagerIndicator_unselected_color = 3;
+        public static int PagerIndicator_unselected_color = 3;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_drawable}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -618,7 +618,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.daimajia.slider.library:unselected_drawable
         */
-        public static final int PagerIndicator_unselected_drawable = 5;
+        public static int PagerIndicator_unselected_drawable = 5;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_height}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -634,7 +634,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_height
         */
-        public static final int PagerIndicator_unselected_height = 9;
+        public static int PagerIndicator_unselected_height = 9;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_padding_bottom}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -650,7 +650,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_padding_bottom
         */
-        public static final int PagerIndicator_unselected_padding_bottom = 21;
+        public static int PagerIndicator_unselected_padding_bottom = 21;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_padding_left}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -666,7 +666,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_padding_left
         */
-        public static final int PagerIndicator_unselected_padding_left = 18;
+        public static int PagerIndicator_unselected_padding_left = 18;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_padding_right}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -682,7 +682,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_padding_right
         */
-        public static final int PagerIndicator_unselected_padding_right = 19;
+        public static int PagerIndicator_unselected_padding_right = 19;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_padding_top}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -698,7 +698,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_padding_top
         */
-        public static final int PagerIndicator_unselected_padding_top = 20;
+        public static int PagerIndicator_unselected_padding_top = 20;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#unselected_width}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -714,7 +714,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:unselected_width
         */
-        public static final int PagerIndicator_unselected_width = 8;
+        public static int PagerIndicator_unselected_width = 8;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#visibility}
           attribute's value can be found in the {@link #PagerIndicator} array.
@@ -731,7 +731,7 @@ containing a value of this type.
 </table>
           @attr name com.daimajia.slider.library:visibility
         */
-        public static final int PagerIndicator_visibility = 0;
+        public static int PagerIndicator_visibility = 0;
         /** Attributes that can be used with a SliderLayout.
            <p>Includes the following attributes:</p>
            <table>
@@ -764,7 +764,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:auto_cycle
         */
-        public static final int SliderLayout_auto_cycle = 1;
+        public static int SliderLayout_auto_cycle = 1;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#indicator_visibility}
           attribute's value can be found in the {@link #SliderLayout} array.
@@ -781,7 +781,7 @@ containing a value of this type.
 </table>
           @attr name com.daimajia.slider.library:indicator_visibility
         */
-        public static final int SliderLayout_indicator_visibility = 0;
+        public static int SliderLayout_indicator_visibility = 0;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#pager_animation}
           attribute's value can be found in the {@link #SliderLayout} array.
@@ -812,7 +812,7 @@ containing a value of this type.
 </table>
           @attr name com.daimajia.slider.library:pager_animation
         */
-        public static final int SliderLayout_pager_animation = 2;
+        public static int SliderLayout_pager_animation = 2;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#pager_animation_span}
           attribute's value can be found in the {@link #SliderLayout} array.
@@ -826,7 +826,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.daimajia.slider.library:pager_animation_span
         */
-        public static final int SliderLayout_pager_animation_span = 3;
+        public static int SliderLayout_pager_animation_span = 3;
         /** Attributes that can be used with a Themes.
            <p>Includes the following attributes:</p>
            <table>
@@ -851,7 +851,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.daimajia.slider.library:PagerIndicatorStyle
         */
-        public static final int Themes_PagerIndicatorStyle = 1;
+        public static int Themes_PagerIndicatorStyle = 1;
         /**
           <p>This symbol is the offset where the {@link com.daimajia.slider.library.R.attr#SliderStyle}
           attribute's value can be found in the {@link #Themes} array.
@@ -861,6 +861,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.daimajia.slider.library:SliderStyle
         */
-        public static final int Themes_SliderStyle = 0;
+        public static int Themes_SliderStyle = 0;
     };
 }
