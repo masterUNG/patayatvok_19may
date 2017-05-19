@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="F:\myproject\patayatvok_19may1\librarySlider\build\intermediates\bundles\default\libs\NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="F:\myproject\patayatvok_19may1\app\build\intermediates\pre-dexed\goldplayer\release\NineOldAndroid-2.4.0_830d19fd17b1dc99bf6b9710e973e057b93a4418.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="F:\myproject\patayatvok_19may\librarySlider\build\intermediates\bundles\default\libs\NineOldAndroid-2.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
         <dex dex="F:\myproject\patayatvok_19may\app\build\intermediates\pre-dexed\goldplayer\debug\NineOldAndroid-2.4.0_ec6cc3fca488a75fb093e486da46a6036744d3b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myproject\patayatvok_19may1\universal-image-loader-1.9.5\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="F:\myproject\patayatvok_19may1\app\build\intermediates\pre-dexed\goldplayer\release\universal-image-loader-1.9.5_90f7d701ff9b0815388be4af9881181b3b1c0f52.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,6 +45,24 @@
         revision="25.0.0"
         sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
         <dex dex="F:\myproject\patayatvok_19may\app\build\intermediates\pre-dexed\goldplayer\debug\universal-image-loader-1.9.5_94abe6f193c78b9ebd6fd2c3cb7ce0f0b2b0e1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myproject\patayatvok_19may1\librarySlider\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5f76e7a6252220ceccb1c5b63d664ba52b078b">
+        <dex dex="F:\myproject\patayatvok_19may1\app\build\intermediates\pre-dexed\goldplayer\release\classes_f4482f5210bf858e41cc0d32a3c91a59db6bb4a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myproject\patayatvok_19may1\librarySlider\build\intermediates\bundles\default\libs\picasso-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
+        <dex dex="F:\myproject\patayatvok_19may1\app\build\intermediates\pre-dexed\goldplayer\release\picasso-2.3.3_ad6fa83bfcb061aad6a1bfba16ddbd57d102713e.jar" />
     </item>
     <item
         is-multidex="false"

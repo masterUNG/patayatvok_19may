@@ -646,28 +646,28 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PagerIndicator_padding_bottom com.ilike.hd4k:padding_bottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_padding_left com.ilike.hd4k:padding_left}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_padding_right com.ilike.hd4k:padding_right}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_padding_top com.ilike.hd4k:padding_top}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_color com.ilike.hd4k:selected_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_drawable com.ilike.hd4k:selected_drawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_height com.ilike.hd4k:selected_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_padding_bottom com.ilike.hd4k:selected_padding_bottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_padding_left com.ilike.hd4k:selected_padding_left}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_padding_right com.ilike.hd4k:selected_padding_right}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_padding_top com.ilike.hd4k:selected_padding_top}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_selected_width com.ilike.hd4k:selected_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_shape com.ilike.hd4k:shape}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_color com.ilike.hd4k:unselected_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_drawable com.ilike.hd4k:unselected_drawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_height com.ilike.hd4k:unselected_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_padding_bottom com.ilike.hd4k:unselected_padding_bottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_padding_left com.ilike.hd4k:unselected_padding_left}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_padding_right com.ilike.hd4k:unselected_padding_right}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_padding_top com.ilike.hd4k:unselected_padding_top}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_unselected_width com.ilike.hd4k:unselected_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #PagerIndicator_visibility com.ilike.hd4k:visibility}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_padding_bottom com.royle.tvmaster:padding_bottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_padding_left com.royle.tvmaster:padding_left}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_padding_right com.royle.tvmaster:padding_right}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_padding_top com.royle.tvmaster:padding_top}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_color com.royle.tvmaster:selected_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_drawable com.royle.tvmaster:selected_drawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_height com.royle.tvmaster:selected_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_padding_bottom com.royle.tvmaster:selected_padding_bottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_padding_left com.royle.tvmaster:selected_padding_left}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_padding_right com.royle.tvmaster:selected_padding_right}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_padding_top com.royle.tvmaster:selected_padding_top}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_selected_width com.royle.tvmaster:selected_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_shape com.royle.tvmaster:shape}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_color com.royle.tvmaster:unselected_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_drawable com.royle.tvmaster:unselected_drawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_height com.royle.tvmaster:unselected_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_padding_bottom com.royle.tvmaster:unselected_padding_bottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_padding_left com.royle.tvmaster:unselected_padding_left}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_padding_right com.royle.tvmaster:unselected_padding_right}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_padding_top com.royle.tvmaster:unselected_padding_top}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_unselected_width com.royle.tvmaster:unselected_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #PagerIndicator_visibility com.royle.tvmaster:visibility}</code></td><td></td></tr>
            </table>
            @see #PagerIndicator_padding_bottom
            @see #PagerIndicator_padding_left
@@ -701,7 +701,7 @@ containing a value of this type.
             0x7f010014, 0x7f010015
         };
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#padding_bottom}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#padding_bottom}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -713,11 +713,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:padding_bottom
+          @attr name com.royle.tvmaster:padding_bottom
         */
         public static final int PagerIndicator_padding_bottom = 13;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#padding_left}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#padding_left}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -729,11 +729,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:padding_left
+          @attr name com.royle.tvmaster:padding_left
         */
         public static final int PagerIndicator_padding_left = 10;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#padding_right}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#padding_right}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -745,11 +745,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:padding_right
+          @attr name com.royle.tvmaster:padding_right
         */
         public static final int PagerIndicator_padding_right = 11;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#padding_top}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#padding_top}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -761,11 +761,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:padding_top
+          @attr name com.royle.tvmaster:padding_top
         */
         public static final int PagerIndicator_padding_top = 12;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_color}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_color}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -776,21 +776,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_color
+          @attr name com.royle.tvmaster:selected_color
         */
         public static final int PagerIndicator_selected_color = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_drawable}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_drawable}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ilike.hd4k:selected_drawable
+          @attr name com.royle.tvmaster:selected_drawable
         */
         public static final int PagerIndicator_selected_drawable = 4;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_height}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_height}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -802,11 +802,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_height
+          @attr name com.royle.tvmaster:selected_height
         */
         public static final int PagerIndicator_selected_height = 7;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_padding_bottom}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_padding_bottom}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -818,11 +818,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_padding_bottom
+          @attr name com.royle.tvmaster:selected_padding_bottom
         */
         public static final int PagerIndicator_selected_padding_bottom = 17;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_padding_left}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_padding_left}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -834,11 +834,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_padding_left
+          @attr name com.royle.tvmaster:selected_padding_left
         */
         public static final int PagerIndicator_selected_padding_left = 14;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_padding_right}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_padding_right}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -850,11 +850,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_padding_right
+          @attr name com.royle.tvmaster:selected_padding_right
         */
         public static final int PagerIndicator_selected_padding_right = 15;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_padding_top}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_padding_top}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -866,11 +866,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_padding_top
+          @attr name com.royle.tvmaster:selected_padding_top
         */
         public static final int PagerIndicator_selected_padding_top = 16;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#selected_width}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#selected_width}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -882,11 +882,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:selected_width
+          @attr name com.royle.tvmaster:selected_width
         */
         public static final int PagerIndicator_selected_width = 6;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#shape}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#shape}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -899,11 +899,11 @@ containing a value of this type.
 <tr><td><code>oval</code></td><td>0</td><td></td></tr>
 <tr><td><code>rect</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.ilike.hd4k:shape
+          @attr name com.royle.tvmaster:shape
         */
         public static final int PagerIndicator_shape = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_color}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_color}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -914,21 +914,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_color
+          @attr name com.royle.tvmaster:unselected_color
         */
         public static final int PagerIndicator_unselected_color = 3;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_drawable}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_drawable}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ilike.hd4k:unselected_drawable
+          @attr name com.royle.tvmaster:unselected_drawable
         */
         public static final int PagerIndicator_unselected_drawable = 5;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_height}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_height}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -940,11 +940,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_height
+          @attr name com.royle.tvmaster:unselected_height
         */
         public static final int PagerIndicator_unselected_height = 9;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_padding_bottom}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_padding_bottom}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -956,11 +956,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_padding_bottom
+          @attr name com.royle.tvmaster:unselected_padding_bottom
         */
         public static final int PagerIndicator_unselected_padding_bottom = 21;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_padding_left}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_padding_left}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -972,11 +972,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_padding_left
+          @attr name com.royle.tvmaster:unselected_padding_left
         */
         public static final int PagerIndicator_unselected_padding_left = 18;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_padding_right}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_padding_right}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -988,11 +988,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_padding_right
+          @attr name com.royle.tvmaster:unselected_padding_right
         */
         public static final int PagerIndicator_unselected_padding_right = 19;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_padding_top}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_padding_top}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -1004,11 +1004,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_padding_top
+          @attr name com.royle.tvmaster:unselected_padding_top
         */
         public static final int PagerIndicator_unselected_padding_top = 20;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#unselected_width}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#unselected_width}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -1020,11 +1020,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:unselected_width
+          @attr name com.royle.tvmaster:unselected_width
         */
         public static final int PagerIndicator_unselected_width = 8;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#visibility}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#visibility}
           attribute's value can be found in the {@link #PagerIndicator} array.
 
 
@@ -1037,7 +1037,7 @@ containing a value of this type.
 <tr><td><code>visible</code></td><td>0</td><td></td></tr>
 <tr><td><code>invisible</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.ilike.hd4k:visibility
+          @attr name com.royle.tvmaster:visibility
         */
         public static final int PagerIndicator_visibility = 0;
         /** Attributes that can be used with a SliderLayout.
@@ -1046,10 +1046,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SliderLayout_auto_cycle com.ilike.hd4k:auto_cycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #SliderLayout_indicator_visibility com.ilike.hd4k:indicator_visibility}</code></td><td></td></tr>
-           <tr><td><code>{@link #SliderLayout_pager_animation com.ilike.hd4k:pager_animation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SliderLayout_pager_animation_span com.ilike.hd4k:pager_animation_span}</code></td><td></td></tr>
+           <tr><td><code>{@link #SliderLayout_auto_cycle com.royle.tvmaster:auto_cycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #SliderLayout_indicator_visibility com.royle.tvmaster:indicator_visibility}</code></td><td></td></tr>
+           <tr><td><code>{@link #SliderLayout_pager_animation com.royle.tvmaster:pager_animation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SliderLayout_pager_animation_span com.royle.tvmaster:pager_animation_span}</code></td><td></td></tr>
            </table>
            @see #SliderLayout_auto_cycle
            @see #SliderLayout_indicator_visibility
@@ -1060,7 +1060,7 @@ containing a value of this type.
             0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019
         };
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#auto_cycle}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#auto_cycle}
           attribute's value can be found in the {@link #SliderLayout} array.
 
 
@@ -1070,11 +1070,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:auto_cycle
+          @attr name com.royle.tvmaster:auto_cycle
         */
         public static final int SliderLayout_auto_cycle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#indicator_visibility}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#indicator_visibility}
           attribute's value can be found in the {@link #SliderLayout} array.
 
 
@@ -1087,11 +1087,11 @@ containing a value of this type.
 <tr><td><code>visible</code></td><td>0</td><td></td></tr>
 <tr><td><code>invisible</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.ilike.hd4k:indicator_visibility
+          @attr name com.royle.tvmaster:indicator_visibility
         */
         public static final int SliderLayout_indicator_visibility = 0;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#pager_animation}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#pager_animation}
           attribute's value can be found in the {@link #SliderLayout} array.
 
 
@@ -1118,11 +1118,11 @@ containing a value of this type.
 <tr><td><code>ZoomOutSlide</code></td><td>14</td><td></td></tr>
 <tr><td><code>ZoomOut</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.ilike.hd4k:pager_animation
+          @attr name com.royle.tvmaster:pager_animation
         */
         public static final int SliderLayout_pager_animation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#pager_animation_span}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#pager_animation_span}
           attribute's value can be found in the {@link #SliderLayout} array.
 
 
@@ -1132,7 +1132,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.ilike.hd4k:pager_animation_span
+          @attr name com.royle.tvmaster:pager_animation_span
         */
         public static final int SliderLayout_pager_animation_span = 3;
         /** Attributes that can be used with a Themes.
@@ -1141,8 +1141,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Themes_PagerIndicatorStyle com.ilike.hd4k:PagerIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Themes_SliderStyle com.ilike.hd4k:SliderStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Themes_PagerIndicatorStyle com.royle.tvmaster:PagerIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Themes_SliderStyle com.royle.tvmaster:SliderStyle}</code></td><td></td></tr>
            </table>
            @see #Themes_PagerIndicatorStyle
            @see #Themes_SliderStyle
@@ -1151,23 +1151,23 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b
         };
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#PagerIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#PagerIndicatorStyle}
           attribute's value can be found in the {@link #Themes} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ilike.hd4k:PagerIndicatorStyle
+          @attr name com.royle.tvmaster:PagerIndicatorStyle
         */
         public static final int Themes_PagerIndicatorStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.ilike.hd4k.R.attr#SliderStyle}
+          <p>This symbol is the offset where the {@link com.royle.tvmaster.R.attr#SliderStyle}
           attribute's value can be found in the {@link #Themes} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.ilike.hd4k:SliderStyle
+          @attr name com.royle.tvmaster:SliderStyle
         */
         public static final int Themes_SliderStyle = 0;
     };

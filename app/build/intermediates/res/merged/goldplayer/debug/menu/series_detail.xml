@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.royle.tv4k.SeriesDetailActivity" >
+    tools:context="com.royle.tvmaster.SeriesDetailActivity" >
 
     <item
         android:id="@+id/action_settings"

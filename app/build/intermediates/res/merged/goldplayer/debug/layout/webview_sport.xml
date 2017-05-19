@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.royle.tv4k.SportActivity" >
+    tools:context="com.royle.tvmaster.SportActivity" >
 
     <WebView
         android:id="@+id/webview_sport"

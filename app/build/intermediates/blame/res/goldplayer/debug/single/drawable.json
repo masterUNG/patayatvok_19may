@@ -1,63 +1,31 @@
 [
     {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_checkbox.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_checkbox.xml"
-    },
-    {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_gradient.xml",
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\ic_true.jpg",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\ic_true.jpg"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_checkbox.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_checkbox.xml"
     },
     {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_bg_white.xml",
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_bg_white.xml"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_grey_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_grey_corner.xml"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_green_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_green_corner.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_corner_bg.xml"
     },
     {
         "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_logo.png",
         "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_logo.png"
     },
     {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_green_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_green_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_image.jpg",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_image.jpg"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_dark_gery.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_dark_gery.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item_w.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item_w.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_white_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_white_corner.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_blue_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_blue_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_blue_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_blue_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_red_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_red_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_dark_grey_.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_dark_grey_.xml"
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_belize_hole_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_belize_hole_corner.xml"
     },
     {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\indicator_corner_bg.xml",
@@ -68,144 +36,108 @@
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\mxplayer.png"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_blue_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_blue_corner.xml"
-    },
-    {
         "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner2.xml",
         "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_red_corner2.xml"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_belize_hole_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_belize_hole_corner.xml"
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\ic_true.jpg",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\ic_true.jpg"
     },
     {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_logo.png",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_logo.png"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress1.png",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress1.png"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_sea_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_sea_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_corner.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\error.jpg",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\error.jpg"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_checkbox.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_checkbox.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner2.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_red_corner2.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\mxplayer.png",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\mxplayer.png"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select_w.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select_w.xml"
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_grey_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_grey_corner.xml"
     },
     {
         "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\id_line.jpg",
         "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\id_line.jpg"
     },
     {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\ic_true.jpg",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\ic_true.jpg"
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select_w.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\style_select_w.xml"
     },
     {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_red_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_red_corner.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_sea_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_sea_corner.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_grey_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_grey_corner.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\id_line.jpg",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\id_line.jpg"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select_w.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select_w.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_white_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_white_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress.gif",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress.gif"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\indicator_corner_bg.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_corner_bg.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate1.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate1.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_blue_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_blue_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_yellow.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_yellow.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_image.jpg",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_image.jpg"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress.gif",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress.gif"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_dark_gery.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_dark_gery.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate.xml"
-    },
-    {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\error.jpg",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\error.jpg"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate.xml"
     },
     {
         "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_bg_white.xml",
         "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_bg_white.xml"
     },
     {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select_w.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select_w.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_blue_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_blue_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\ic_true.jpg",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\ic_true.jpg"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_dark_gery.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_dark_gery.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_sea_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_sea_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_blue_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\style_blue_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item_w.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_item_w.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_grey_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_grey_corner.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\error.jpg",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\error.jpg"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_blue_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_blue_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner2.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_red_corner2.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select_w.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select_w.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress.gif",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\progress.gif"
+    },
+    {
         "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_corner.xml",
         "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress.gif",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress.gif"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_white_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_white_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\error.jpg",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\error.jpg"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_gradient.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
     },
     {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner.xml",
@@ -216,43 +148,239 @@
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress1.png"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_gradient.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_red_corner.xml"
-    },
-    {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item_w.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item_w.xml"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_red_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_red_corner.xml"
     },
     {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_yellow.xml",
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_yellow.xml"
     },
     {
-        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_belize_hole_corner.xml",
-        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_belize_hole_corner.xml"
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\style_select.xml"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item.xml"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_select.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_select.xml"
     },
     {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_dark_grey_.xml",
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_dark_grey_.xml"
     },
     {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_yellow.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_yellow.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_green_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_red_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_red_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\id_line.jpg",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\id_line.jpg"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_checkbox.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_dark_gery.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_dark_gery.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_red_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_white_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\style_white_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\librarySlider\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\mxplayer.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\mxplayer.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_bg_white.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_bg_white.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\mxplayer.png",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\mxplayer.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_dark_gery.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_dark_gery.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item_w.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item_w.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate1.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate1.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress1.png",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\progress1.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_blue_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_blue_corner.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_blue_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_blue_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_checkbox.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\ic_true.jpg",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\ic_true.jpg"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_green_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_green_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_logo.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_grey_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_grey_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\error.jpg",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\error.jpg"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner2.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_red_corner2.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_red_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_red_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_image.jpg",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\splash_image.jpg"
+    },
+    {
         "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_green_corner.xml",
         "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_green_corner.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_dark_grey_.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_dark_grey_.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_dark_grey_.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_dark_grey_.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_yellow.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_yellow.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\id_line.jpg",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\id_line.jpg"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_image.jpg",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_image.jpg"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_white_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_white_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\selector_item.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_red_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_red_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate1.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate1.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\style_blue_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\style_blue_corner.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress1.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress1.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_gradient.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate1.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\my_progress_indeterminate1.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_image.jpg",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\splash_image.jpg"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item_w.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item_w.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\splash_logo.png",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_sea_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_green_sea_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_belize_hole_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_belize_hole_corner.xml"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_green_sea_corner.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\bg_green_sea_corner.xml"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\progress.gif",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\progress.gif"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate.xml",
+        "source": "F:\\myproject\\patayatvok_19may1\\app\\src\\main\\res\\drawable\\my_progress_indeterminate.xml"
     },
     {
         "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\selector_item.xml",
         "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable\\selector_item.xml"
     },
     {
-        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\my_progress_indeterminate1.xml",
-        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\my_progress_indeterminate1.xml"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable\\bg_belize_hole_corner.xml",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable\\bg_belize_hole_corner.xml"
     }
 ]

@@ -1,4 +1,4 @@
-#Fri May 19 10:46:57 ICT 2017
-base.0=F\:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\transforms\\dex\\goldplayer\\debug\\folders\\1000\\1f\\main
+#Fri May 19 13:19:50 ICT 2017
+base.0=F\:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\transforms\\dex\\goldplayer\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=F\:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\transforms\\dex\\goldplayer\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=F\:\\myproject\\patayatvok_19may1\\app\\build\\intermediates\\transforms\\dex\\goldplayer\\debug\\folders\\1000\\1f\\main\\classes.dex

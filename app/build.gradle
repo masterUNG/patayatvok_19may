@@ -2,21 +2,22 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-        eweatthailand {
-            keyAlias 'eweatthailand'
-            keyPassword 'z1q2w3e4r5t'
-            storeFile file('F:/myproject/patayatvok_19may/jks/eweatthailand.jks')
-            storePassword 'z1q2w3e4r5t'
+        san {
+            keyAlias 'san'
+            keyPassword '123456'
+            storeFile file('F:/myproject/patayatvok_19may1/jks/san.jks')
+            storePassword '123456'
         }
     }
     compileSdkVersion 19
     buildToolsVersion '25.0.0'
     defaultConfig {
-        applicationId "com.royle.tv4k"
+        applicationId "com.royle.tvmaster"
         minSdkVersion 15
         targetSdkVersion 19
         versionCode 2
         versionName '1.0'
+        signingConfig signingConfigs.san
     }
 
     buildTypes {
@@ -25,13 +26,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
             //proguardFiles getDefaultProguardFile('proguard-android.txt')
             renderscriptDebuggable false
-            signingConfig signingConfigs.eweatthailand
+            signingConfig signingConfigs.san
         }
         debug {
             minifyEnabled false
             renderscriptDebuggable true
             debuggable true
-            signingConfig signingConfigs.eweatthailand
+            signingConfig signingConfigs.san
         }
     }
     compileOptions {
@@ -39,14 +40,6 @@ android {
         targetCompatibility JavaVersion.VERSION_1_7
     }
     productFlavors {
-        goldplayer {
-            minSdkVersion 16
-            applicationId 'com.ilike.hd4k'
-            signingConfig signingConfigs.eweatthailand
-            targetSdkVersion 24
-            versionCode 13
-            versionName '1'
-        }
     }
 }
 
