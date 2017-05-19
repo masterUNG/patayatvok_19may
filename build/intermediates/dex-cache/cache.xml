@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\incremental-runtime-classes\goldplayer\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f462f4d682e5a11eea6d3cd6b457ebf6af453e81">
+        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\instant-run_ea4c3682a3c75d869ffdbc0114875e6a023887ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\incremental-classes\goldplayer\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44443f330936b6bda47117d940c51e85873ce727">
+        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\instant-run-bootstrap_92c027852a10cf87b8b5c360aba1549ff956af6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\exploded-aar\iLike4K_v13\librarySlider\unspecified\jars\libs\NineOldAndroid-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\NineOldAndroid-2.4.0_628aaf18d4dd61d1b6d1539029d1ba4ef62e300f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ubc15\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\support-v4-19.1.0_f4292e0d0952dc42a8398aaef901f1e6508e5c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\exploded-aar\iLike4K_v13\librarySlider\unspecified\jars\libs\picasso-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
+        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\picasso-2.3.3_6c3cfc5aa0f794c8cce35c165e2aab1a6875e637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ubc15\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\glide-3.5.2_6089f463e705b80525d9f5dd4bdc1a98a2e13774.jar" />
+    </item>
+
+</items>
