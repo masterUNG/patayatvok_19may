@@ -1,7 +1,7 @@
 package user;
 
-import com.royle.tv4k.R;
-import com.royle.tv4k.WebViewPayPalActivity;
+import com.royle.tvmaster.R;
+import com.royle.tvmaster.WebViewPayPalActivity;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -16,7 +16,6 @@ import android.view.View.OnClickListener;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 

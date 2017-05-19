@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.royle.tv4k.WebViewPayPalActivity">
+    tools:context="com.royle.tvmaster.WebViewPayPalActivity">
 
     <WebView
         android:layout_width="match_parent"

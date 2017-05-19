@@ -27,16 +27,14 @@ import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
-import com.royle.tv4k.Mxplayer;
-import com.royle.tv4k.R;
-import com.royle.tv4k.SearchSRActivity;
+import com.royle.tvmaster.Mxplayer;
+import com.royle.tvmaster.R;
+import com.royle.tvmaster.SearchSRActivity;
 
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -46,11 +44,8 @@ import helper.DataStore;
 import helper.PortalServices;
 import helper.UrlApp;
 import user.ErrorActivity;
-import user.LoginActivity;
-import user.MailActivity;
 import meklib.MCrypt;
 import user.RefillActivity;
-import user.RegisterActivity;
 
 public class SeriesDetailActivity extends Activity {
 

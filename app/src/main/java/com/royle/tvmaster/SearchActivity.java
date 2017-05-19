@@ -1,4 +1,4 @@
-package com.royle.tv4k;
+package com.royle.tvmaster;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -19,18 +19,18 @@ import android.widget.GridView;
 import java.util.ArrayList;
 
 import helper.DataStore;
-import series.SeriesCategoryAdapter;
-import series.SeriesData;
-import series.SeriesDetailActivity;
+import movie.MovieCategoryAdapter;
+import movie.MovieData;
+import movie.MovieDetailActivity;
 
-public class SearchSRActivity extends Activity {
+public class SearchActivity extends Activity {
     //widget
     private EditText edtSearch;
     private GridView gridView;
     private Button btnEnter;
 
     private ProgressDialog progressDialog;
-    private ArrayList<SeriesData> arrData = new ArrayList<SeriesData>();
+    private ArrayList<MovieData> arrData = new ArrayList<MovieData>();
 
     DataStore dataStore;
 
@@ -40,7 +40,7 @@ public class SearchSRActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        setContentView(R.layout.activity_searchsr);
+        setContentView(R.layout.activity_search);
 
         dataStore = new DataStore(getBaseContext());
         progressDialog = new ProgressDialog(this);
@@ -73,16 +73,20 @@ public class SearchSRActivity extends Activity {
     }
 
     public void showContent(){
-        SeriesCategoryAdapter adapter = new SeriesCategoryAdapter(getBaseContext(), R.layout.movie_row, arrData);
+        MovieCategoryAdapter adapter = new MovieCategoryAdapter(getBaseContext(), R.layout.movie_row, arrData);
         gridView.setAdapter(adapter);
         gridView.setOnItemClickListener(new OnItemClickListener() {
             Intent intent;
             @Override
             public void onItemClick(AdapterView<?> parent, View view,int position, long id) {
-                intent = new Intent(SearchSRActivity.this, SeriesDetailActivity.class);
-                intent.putExtra("id", arrData.get(position).getseries_id());
-                intent.putExtra("name", arrData.get(position).getseries_name());
-                intent.putExtra("pic", arrData.get(position).getseries_img());
+                intent = new Intent(SearchActivity.this,MovieDetailActivity.class);
+                intent.putExtra("name", arrData.get(position).getMovie_name());
+                intent.putExtra("pic", arrData.get(position).getMovie_img());
+                intent.putExtra("link", arrData.get(position).getMovie_link());
+                intent.putExtra("link_hd", arrData.get(position).getMovie_link_hd());
+                intent.putExtra("link_mobile", arrData.get(position).getMovie_link_mobile());
+                intent.putExtra("link_4k", arrData.get(position).getMovie_link_4k());
+                intent.putExtra("level_access", arrData.get(position).getLevel_access());
                 startActivity(intent);
             }
         });
@@ -112,9 +116,9 @@ public class SearchSRActivity extends Activity {
 
         @Override
         protected Void doInBackground(Void... params) {
-            SeriesData data = new SeriesData();
+            MovieData data = new MovieData();
             name = name.replace(" ", "%20");
-            arrData = data.getSRSearch(name);
+            arrData = data.getSearch(name);
             return null;
         }
 

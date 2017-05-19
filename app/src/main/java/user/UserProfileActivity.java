@@ -12,11 +12,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tv4k.MainActivity;
-import com.royle.tv4k.R;
-import com.royle.tv4k.ServiceCheck;
+import com.royle.tvmaster.MainActivity;
+import com.royle.tvmaster.R;
+import com.royle.tvmaster.ServiceCheck;
 
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import helper.DataStore;

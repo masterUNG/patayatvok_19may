@@ -6,7 +6,7 @@ import android.view.Window;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.royle.tv4k.R;
+import com.royle.tvmaster.R;
 
 public class MailActivity extends Activity {
 

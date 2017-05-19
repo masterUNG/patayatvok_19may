@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.royle.tv4k"
+    package="com.royle.tvmaster"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -47,7 +47,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".SplashScreen"
+            android:name="com.royle.tvmaster.SplashScreen"
             android:label="@string/app_name"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar">
@@ -58,12 +58,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".UpdateCheck"
+            android:name="com.royle.tvmaster.UpdateCheck"
             android:label="UpdateCheck"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.royle.tvmaster.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="landscape" />
         <activity
@@ -108,12 +108,12 @@
             android:label="@string/title_activity_user_profile"
             android:screenOrientation="landscape" />
         <activity
-            android:name=".SearchActivity"
+            android:name="com.royle.tvmaster.SearchActivity"
             android:label="@string/title_activity_search"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Dialog" />
         <activity
-            android:name=".NewsActivity"
+            android:name="com.royle.tvmaster.NewsActivity"
             android:label="@string/title_activity_news"
             android:screenOrientation="landscape" />
         <activity
@@ -152,7 +152,7 @@
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
         <activity
-            android:name=".SearchSRActivity"
+            android:name="com.royle.tvmaster.SearchSRActivity"
             android:label="SearchSR"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Dialog" />
@@ -165,15 +165,15 @@
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
         <activity
-            android:name=".Mxplayer"
+            android:name="com.royle.tvmaster.Mxplayer"
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <activity
-            android:name=".SportActivity"
+            android:name="com.royle.tvmaster.SportActivity"
             android:label="SportActivity"
             android:screenOrientation="landscape" />
-        <activity android:name=".WebViewPayPalActivity" />
+        <activity android:name="com.royle.tvmaster.WebViewPayPalActivity" />
 
         <activity
             android:name="user.ErrorActivity"

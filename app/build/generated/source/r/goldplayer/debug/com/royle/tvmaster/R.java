@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.royle.tv4k;
+package com.royle.tvmaster;
 
 public final class R {
     public static final class anim {
