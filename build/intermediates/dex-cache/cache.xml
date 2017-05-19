@@ -3,57 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\incremental-runtime-classes\goldplayer\debug\instant-run.jar"
-        jumboMode="true"
+        jar="/Users/masterUNG/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
         optimize="true"
-        revision="23.0.2"
-        sha1="f462f4d682e5a11eea6d3cd6b457ebf6af453e81">
-        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\instant-run_ea4c3682a3c75d869ffdbc0114875e6a023887ba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\incremental-classes\goldplayer\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="44443f330936b6bda47117d940c51e85873ce727">
-        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\instant-run-bootstrap_92c027852a10cf87b8b5c360aba1549ff956af6e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\exploded-aar\iLike4K_v13\librarySlider\unspecified\jars\libs\NineOldAndroid-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
-        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\NineOldAndroid-2.4.0_628aaf18d4dd61d1b6d1539029d1ba4ef62e300f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ubc15\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\support-v4-19.1.0_f4292e0d0952dc42a8398aaef901f1e6508e5c51.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\exploded-aar\iLike4K_v13\librarySlider\unspecified\jars\libs\picasso-2.3.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
-        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\picasso-2.3.3_6c3cfc5aa0f794c8cce35c165e2aab1a6875e637.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\ubc15\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
-        <dex dex="C:\APK2\iLike4K_v13\iLike4K_v13\app\build\intermediates\pre-dexed\goldplayer\debug\glide-3.5.2_6089f463e705b80525d9f5dd4bdc1a98a2e13774.jar" />
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/pre-dexed/goldplayer/debug/glide-3.5.2_5da355588511e27b979587bfed4bdca5c16cbeca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/pre-dexed/goldplayer/debug/support-v4-19.1.0_7daef0db8383e39dd2ee011e33e1d43a927b3cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/default/libs/picasso-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/pre-dexed/goldplayer/debug/picasso-2.3.3_089c9a8249e853cf8552e4838cae4e27cfcf8ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/universal-image-loader-1.9.5/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/pre-dexed/goldplayer/debug/universal-image-loader-1.9.5_b7cc4a11854a9fd24482ee35f42d2bcccc69c242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/default/libs/NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/pre-dexed/goldplayer/debug/NineOldAndroid-2.4.0_648ea62b3f3f639d0571f18c3c5aa4f334fd7160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa68eb2864226224e80a512e8fcbbdf0b17aa276">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/pre-dexed/goldplayer/debug/classes_43bf27fc6f21546f744817037440460f8598c1f2.jar" />
     </item>
 
 </items>
