@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 3014
                 },
                 "from": {
-                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
+                    "file": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 3889
                 },
                 "from": {
-                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
+                    "file": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 4834
                 },
                 "from": {
-                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
+                    "file": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -73,7 +73,94 @@
                     "endOffset": 5709
                 },
                 "from": {
-                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
+                    "file": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4839,
+                        "endLine": 89,
+                        "endColumn": 12,
+                        "endOffset": 5709
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2975,
+                    "endColumn": 43,
+                    "endOffset": 3014
+                },
+                "from": {
+                    "file": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2975,
+                        "endColumn": 43,
+                        "endOffset": 3014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3019,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3889
+                },
+                "from": {
+                    "file": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3019,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 3889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3894,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4834
+                },
+                "from": {
+                    "file": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3894,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 4834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4839,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 5709
+                },
+                "from": {
+                    "file": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,

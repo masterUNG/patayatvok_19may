@@ -62,13 +62,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/goldplayer/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/goldplayer/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/goldplayer/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testGoldplayer/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testGoldplayer/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testGoldplayer/assets" type="java-test-resource" />
@@ -76,6 +69,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/testGoldplayer/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testGoldplayer/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testGoldplayer/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestGoldplayer/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
@@ -132,6 +132,7 @@
     <orderEntry type="library" exported="" name="support-v4-19.1.0" level="project" />
     <orderEntry type="library" exported="" name="glide-3.5.2" level="project" />
     <orderEntry type="module" module-name="librarySlider" exported="" />
+    <orderEntry type="library" exported="" name="android-android-19" level="project" />
     <orderEntry type="library" exported="" name="NineOldAndroid-2.4.0" level="project" />
     <orderEntry type="library" exported="" name="picasso-2.3.3" level="project" />
   </component>

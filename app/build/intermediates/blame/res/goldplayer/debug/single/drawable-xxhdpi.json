@@ -1,98 +1,194 @@
 [
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/slide.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/slide.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_setting.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_setting.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/c.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/c.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_lock.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_lock.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_userprofile.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_userprofile.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_launcher.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_fail.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fail.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_fail.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_fail.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_fail.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fail.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_username.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_username.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\e.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\e.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_login.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_login.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_search.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_search.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_search.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_exit.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_exit.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_load.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_load.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_register.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_register.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_mail.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_mail.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_userprofile.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_userprofile.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_exit.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_exit.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_setting.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_setting.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_register.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_register.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\a.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\a.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/logo_fourk.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/logo_fourk.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\d.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\d.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/d.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/d.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_support.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_support.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_support.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_support.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_default.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_default.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_username.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_username.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/logo.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/logo.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/b.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/b.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_refill.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_refill.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_setting.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_setting.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/e.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/e.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_load.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_load.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_refill.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_refill.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_search.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/a.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/a.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_login.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_login.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_empty.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_empty.png"
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\slide.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\slide.png"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/build/intermediates/res/merged/goldplayer/debug/drawable-xxhdpi/ic_userprofile.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/app/src/main/res/drawable-xxhdpi/ic_userprofile.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\c.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\c.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_default.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_default.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_support.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_support.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\logo_fourk.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\logo_fourk.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_lock.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_lock.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_login.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_mail.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_load.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_load.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_empty.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_mail.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\c.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\c.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\b.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\b.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_empty.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_default.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_default.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_refill.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_refill.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\d.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\d.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\a.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\a.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_username.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_username.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_exit.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\logo_fourk.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\logo_fourk.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\e.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\e.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\b.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\b.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\slide.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\slide.png"
+    },
+    {
+        "merged": "F:\\myproject\\patayatvok_19may\\app\\build\\intermediates\\res\\merged\\goldplayer\\debug\\drawable-xxhdpi\\ic_register.png",
+        "source": "F:\\myproject\\patayatvok_19may\\app\\src\\main\\res\\drawable-xxhdpi\\ic_register.png"
     }
 ]

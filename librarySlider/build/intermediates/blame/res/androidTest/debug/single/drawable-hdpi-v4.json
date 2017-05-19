@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_empty.png",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may/librarySlider/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_empty.png"
+        "merged": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "F:\\myproject\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_empty.png"
+    },
+    {
+        "merged": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "F:\\Users\\masterUNG\\MyWorkspace\\Wrokspace_Project\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_empty.png"
     }
 ]
