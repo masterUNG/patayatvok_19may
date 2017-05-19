@@ -1,4 +1,4 @@
-package com.royle.tv4k;
+package com.royle.tvmaster;
 
 import android.app.Activity;
 import android.os.Bundle;

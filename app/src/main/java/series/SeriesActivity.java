@@ -17,8 +17,8 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Gallery;
 import android.widget.TextView;
 
-import com.royle.tv4k.MainActivity;
-import com.royle.tv4k.R;
+import com.royle.tvmaster.MainActivity;
+import com.royle.tvmaster.R;
 
 import java.util.ArrayList;
 

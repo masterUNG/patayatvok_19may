@@ -9,10 +9,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.royle.tv4k.R;
-
-import iptv.IpTvActivity;
-import iptv.TvCategoryActivity;
+import com.royle.tvmaster.R;
 
 
 public class SupportActivity extends Activity {

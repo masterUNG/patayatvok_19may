@@ -1,4 +1,4 @@
-package com.royle.tv4k;
+package com.royle.tvmaster;
 
 import android.app.Service;
 import android.content.Intent;
@@ -7,7 +7,6 @@ import android.os.IBinder;
 import android.util.Log;
 import android.widget.Toast;
 
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import helper.DataStore;

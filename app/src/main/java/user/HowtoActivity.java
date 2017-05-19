@@ -21,17 +21,14 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tv4k.Mxplayer;
-import com.royle.tv4k.R;
-import com.royle.tv4k.SearchActivity;
+import com.royle.tvmaster.Mxplayer;
+import com.royle.tvmaster.R;
+import com.royle.tvmaster.SearchActivity;
 
-import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -42,12 +39,7 @@ import helper.PortalServices;
 import helper.UrlApp;
 import iptv.IpTvCategoryAdapter;
 import iptv.IpTvData;
-import user.LoginActivity;
-import user.MailActivity;
-import helper.PortalServices;
 import meklib.MCrypt;
-import user.RefillActivity;
-import user.RegisterActivity;
 
 public class HowtoActivity extends Activity {
 	// widget

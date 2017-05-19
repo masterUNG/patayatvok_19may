@@ -15,15 +15,14 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
-import android.widget.Button;
 import android.widget.Gallery;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tv4k.MainActivity;
-import com.royle.tv4k.R;
-import com.royle.tv4k.SearchActivity;
+import com.royle.tvmaster.MainActivity;
+import com.royle.tvmaster.R;
+import com.royle.tvmaster.SearchActivity;
 
 import java.util.ArrayList;
 

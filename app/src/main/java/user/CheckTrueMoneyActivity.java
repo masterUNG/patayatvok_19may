@@ -6,7 +6,6 @@ import helper.UrlApp;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
-import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
@@ -15,8 +14,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.royle.tv4k.MainActivity;
-import com.royle.tv4k.R;
+import com.royle.tvmaster.MainActivity;
+import com.royle.tvmaster.R;
 
 
 public class CheckTrueMoneyActivity extends Activity {

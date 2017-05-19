@@ -2,7 +2,7 @@ package series;
 
 import java.util.ArrayList;
 
-import com.royle.tv4k.R;
+import com.royle.tvmaster.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

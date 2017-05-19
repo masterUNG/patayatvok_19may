@@ -15,8 +15,8 @@ import android.widget.GridView;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.royle.tv4k.R;
-import com.royle.tv4k.SearchActivity;
+import com.royle.tvmaster.R;
+import com.royle.tvmaster.SearchActivity;
 
 import java.util.ArrayList;
 

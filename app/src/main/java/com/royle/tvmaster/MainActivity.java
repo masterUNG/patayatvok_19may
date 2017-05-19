@@ -1,8 +1,7 @@
-package com.royle.tv4k;
+package com.royle.tvmaster;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -58,25 +57,21 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-import ebook.EbookActivity;
 import helper.DataStore;
 import helper.PortalServices;
-import helper.UrlApp;
 import iptv.IpTvActivity;
 import movie.MovieActivity;
 import movie.MovieData;
 import movie.MovieDetailActivity;
 import series.SeriesActivity;
-import user.CheckTrueMoneyActivity;
 import user.LoginActivity;
-import user.MailActivity;
 import user.RefillActivity;
 import user.RegisterActivity;
 import user.SupportActivity;
 import user.UserProfileActivity;
 import meklib.MCrypt;
 
-import static com.royle.tv4k.SplashScreen.DIALOG_ERROR_CONNECTION;
+import static com.royle.tvmaster.SplashScreen.DIALOG_ERROR_CONNECTION;
 
 public class MainActivity extends FragmentActivity {
     // widget
