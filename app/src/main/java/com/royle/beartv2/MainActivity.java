@@ -119,9 +119,6 @@ public class MainActivity extends FragmentActivity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
 
-
-
-
         initWidget();
 
         //progressDialog = new ProgressDialog(this);
@@ -187,52 +184,8 @@ public class MainActivity extends FragmentActivity {
 //            }
 //        });
 
-        imbTv.setOnClickListener(new OnClickListener() {
+        imageButtonTV();
 
-            @Override
-            public void onClick(View v) {
-
-                if (dataStore.checkUser()) {
-                    intent = new Intent(MainActivity.this, IpTvActivity.class);
-                    intent.putExtra("id", "2");
-                    startActivity(intent);
-
-                    // TODO Auto-generated method stub
-                    try {
-                        if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
-
-                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
-
-                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
-
-                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
-
-                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
-
-                        } else if (playerInstalledOrNot("com.android.gallery3d")) {
-
-
-                        } else {
-                            installgold atualizaApp = new installgold();
-                            atualizaApp.setContext(getApplicationContext());
-                            atualizaApp.execute("MXPlayer.apk");
-                            Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
-                            Intent intent = new Intent(MainActivity.this, Mxplayer.class);
-                            startActivity(intent);
-                        }
-                    } catch (Exception e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
-                    }
-
-                } else {
-                    startActivity(new Intent(MainActivity.this, LoginActivity.class));
-
-                }
-
-
-            }
-        });
         imbMovie.setOnClickListener(new OnClickListener() {
 
             @Override
@@ -417,6 +370,57 @@ public class MainActivity extends FragmentActivity {
 
     }
 
+    private void imageButtonTV() {
+        imbTv.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+                //Check ว่ามี id user หรือเปล่า ถ้ามี True ไม่มี false
+                if (dataStore.checkUser()) {
+
+                    intent = new Intent(MainActivity.this, IpTvActivity.class);
+                    intent.putExtra("id", "2");
+                    startActivity(intent);
+
+                    // TODO Auto-generated method stub
+                    try {
+                        if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+
+                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+
+                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
+
+                        } else if (playerInstalledOrNot("com.android.gallery3d")) {
+
+
+                        } else {
+                            installgold atualizaApp = new installgold();
+                            atualizaApp.setContext(getApplicationContext());
+                            atualizaApp.execute("MXPlayer.apk");
+                            Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
+                            Intent intent = new Intent(MainActivity.this, Mxplayer.class);
+                            startActivity(intent);
+                        }
+                    } catch (Exception e) {
+                        // TODO Auto-generated catch block
+                        e.printStackTrace();
+                    }
+
+                } else {
+                    startActivity(new Intent(MainActivity.this, LoginActivity.class));
+
+                }
+
+
+            }
+        });
+    }
+
 
     private boolean playerInstalledOrNot(String uri) {
         PackageManager pm = getPackageManager();
@@ -442,7 +446,8 @@ public class MainActivity extends FragmentActivity {
         protected Void doInBackground(String... arg0) {
             try {
                 String nameapp = (String) arg0[0];
-                String link = "http://4kmoviestar.com/New_Apk/" + nameapp;
+//                String link = "http://4kmoviestar.com/New_Apk/" + nameapp;
+                String link = "http://pnsat.com/mx/" + nameapp;
                 URL url = new URL(link);
                 HttpURLConnection c = (HttpURLConnection) url.openConnection();
                 c.setRequestMethod("GET");
@@ -725,7 +730,7 @@ public class MainActivity extends FragmentActivity {
                 .bitmapConfig(Bitmap.Config.RGB_565)
                 .displayer(new FadeInBitmapDisplayer(200))
                 .build();
-    }
+    }   // Initial View
 
     public int getWidth(Context context) {
         WindowManager windowm = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
