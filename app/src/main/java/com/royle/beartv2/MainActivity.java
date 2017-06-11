@@ -60,6 +60,7 @@ import java.util.List;
 import helper.DataStore;
 import helper.PortalServices;
 import iptv.IpTvActivity;
+import meklib.MCrypt;
 import movie.MovieActivity;
 import movie.MovieData;
 import movie.MovieDetailActivity;
@@ -69,7 +70,6 @@ import user.RefillActivity;
 import user.RegisterActivity;
 import user.SupportActivity;
 import user.UserProfileActivity;
-import meklib.MCrypt;
 
 import static com.royle.beartv2.SplashScreen.DIALOG_ERROR_CONNECTION;
 
@@ -136,8 +136,6 @@ public class MainActivity extends FragmentActivity {
             startActivity(new Intent(MainActivity.this, RegisterActivity.class));
 
         }
-
-
 
 
         btnRefill.setOnClickListener(new OnClickListener() {
@@ -344,6 +342,23 @@ public class MainActivity extends FragmentActivity {
 
 
         });
+
+
+        clickForMember();
+
+
+        btnSearch.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+                startActivity(intent);
+            }
+        });
+
+    }
+
+    private void clickForMember() {
         btnUserProfile.setOnClickListener(new OnClickListener() {
 
             @Override
@@ -359,15 +374,6 @@ public class MainActivity extends FragmentActivity {
 
             }
         });
-        btnSearch.setOnClickListener(new OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
-                startActivity(intent);
-            }
-        });
-
     }
 
     private void imageButtonTV() {
@@ -377,7 +383,8 @@ public class MainActivity extends FragmentActivity {
             public void onClick(View v) {
 
                 //Check ว่ามี id user หรือเปล่า ถ้ามี True ไม่มี false
-                if (dataStore.checkUser()) {
+//                if (dataStore.checkUser()) {
+                if (true) {
 
                     intent = new Intent(MainActivity.this, IpTvActivity.class);
                     intent.putExtra("id", "2");
@@ -477,7 +484,6 @@ public class MainActivity extends FragmentActivity {
                 intent.setDataAndType(Uri.fromFile(new File("/mnt/sdcard/Download/" + nameapp)), "application/vnd.android.package-archive");
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK); // without this flag android returned a intent error!
                 context.startActivity(intent);
-
 
 
             } catch (Exception e) {
@@ -756,7 +762,7 @@ public class MainActivity extends FragmentActivity {
             OtherData otherData = new OtherData(getBaseContext());
             otherData.getOther();
             arrDataSlide = otherData.getSlide();
-			/*if (!username.equals("")) {
+            /*if (!username.equals("")) {
 				LoginApp(username, password);
 			}*/
             return null;
@@ -791,12 +797,12 @@ public class MainActivity extends FragmentActivity {
         }
     }
 
-    public static String loadFileAsString(String filePath) throws java.io.IOException{
+    public static String loadFileAsString(String filePath) throws java.io.IOException {
         StringBuffer fileData = new StringBuffer(1000);
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         char[] buf = new char[1024];
-        int numRead=0;
-        while((numRead=reader.read(buf)) != -1){
+        int numRead = 0;
+        while ((numRead = reader.read(buf)) != -1) {
             String readData = String.valueOf(buf, 0, numRead);
             fileData.append(readData);
         }
@@ -805,15 +811,16 @@ public class MainActivity extends FragmentActivity {
     }
 
     private static String macAddress = "";
+
     public static String getMacAddress(Context context) {
         WifiManager manager = (WifiManager) context.getSystemService(Context.WIFI_SERVICE);
-        WifiInfo wifiInfo  = manager.getConnectionInfo();
+        WifiInfo wifiInfo = manager.getConnectionInfo();
         //String macAddress = info.getMacAddress();
 
         if (wifiInfo != null) {
             macAddress = wifiInfo.getMacAddress();
 
-        }else {
+        } else {
             try {
                 return loadFileAsString("/sys/class/net/eth0/address")
                         .toUpperCase().substring(0, 17);
@@ -825,7 +832,7 @@ public class MainActivity extends FragmentActivity {
         return macAddress;
     }
 
-    public static String getAndroidId(Context context){
+    public static String getAndroidId(Context context) {
         return Settings.Secure.getString(context.getContentResolver(),
                 Settings.Secure.ANDROID_ID);
     }
@@ -919,7 +926,7 @@ public class MainActivity extends FragmentActivity {
         dialog.show();
     }
 
-        public static void logout(Context context){
+    public static void logout(Context context) {
         DataStore dataStore = new DataStore(context);
         dataStore.SavedSharedPreference(DataStore.USER_ID, "");
         dataStore.SavedSharedPreference(DataStore.USER_NAME, "");
@@ -930,7 +937,6 @@ public class MainActivity extends FragmentActivity {
         dataStore.SavedSharedPreference(DataStore.USER_TOKEN, "");
         dataStore.ClearSharedPreference();
     }
-
 
 
     @Override
@@ -946,12 +952,12 @@ public class MainActivity extends FragmentActivity {
                 errorDialog.setMessage("กรุณาเชื่อมต่อ WIFI ก่อนแล้วเข้าแอพอีกครั้ง");
                 errorDialog.setNeutralButton("ตกลง", new DialogInterface.OnClickListener() {
 
-                            @Override
-                            public void onClick(DialogInterface dialog, int id) {
-                                dialog.dismiss();
-                                startActivity(new Intent(WifiManager.ACTION_PICK_WIFI_NETWORK));
-                            }
-                        });
+                    @Override
+                    public void onClick(DialogInterface dialog, int id) {
+                        dialog.dismiss();
+                        startActivity(new Intent(WifiManager.ACTION_PICK_WIFI_NETWORK));
+                    }
+                });
 
                 AlertDialog errorAlert = errorDialog.create();
                 return errorAlert;
@@ -985,7 +991,7 @@ public class MainActivity extends FragmentActivity {
                         String code = editText.getText().toString().trim();
                         DataStore dataStore = new DataStore(getApplicationContext());
                         String userId = dataStore.LoadSharedPreference(DataStore.USER_ID, "");
-                        new RefillCodeTask(userId,code).execute();
+                        new RefillCodeTask(userId, code).execute();
                     }
                 });
             }
