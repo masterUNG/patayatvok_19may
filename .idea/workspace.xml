@@ -35,7 +35,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/royle/beartv2/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/royle/beartv2/MainActivity.java" />
     </list>
     <ignored path="patayatvok_19may.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -3290,7 +3289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497167199555</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Direc to Free TV">
+      <created>1497168866718</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1497168866718</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3356,7 +3362,8 @@
     <MESSAGE value="After Lunch" />
     <MESSAGE value="Change File" />
     <MESSAGE value="Change URL Download MX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change URL Download MX" />
+    <MESSAGE value="Direc to Free TV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Direc to Free TV" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
