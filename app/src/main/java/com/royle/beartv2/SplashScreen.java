@@ -27,16 +27,13 @@ import android.widget.Toast;
  */
 public class SplashScreen extends Activity {
 
-    private final static int    UNINSTALL_REQUEST_CODE = 0;
-    private final static String m_sPackageToUninstall  = "com.cmiptv.app"; //old client to be uninstall
-
+    //Explicit
+    private final static int UNINSTALL_REQUEST_CODE = 0;
+    private final static String m_sPackageToUninstall = "com.cmiptv.app"; //old client to be uninstall
     private SharedPreferences appSettings;
-
     private final static String appname = "beartv";
     private final static String Shortcutname = "beartv";
-
     static final int DIALOG_ERROR_CONNECTION = 1;
-
 
 
     @Override
@@ -44,77 +41,73 @@ public class SplashScreen extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash);
 
-
+        //Check Internet onLine ? True ==> Internet OK, False ==> Internet False
         if (!isOnline(this)) {
+
             showDialog(DIALOG_ERROR_CONNECTION); //displaying the created dialog.
             super.onPause();
         } else {
             //Internet available. Do what's required when internet is available.
 
 
-
-
-
-
-        appSettings = getSharedPreferences(appname, MODE_PRIVATE);
-        // Make sure you only run addShortcut() once, not to create duplicate shortcuts.
-        if(!appSettings.getBoolean("shortcut", false)) {
-            addShortcut();
-        }
+            appSettings = getSharedPreferences(appname, MODE_PRIVATE);
+            // Make sure you only run addShortcut() once, not to create duplicate shortcuts.
+            if (!appSettings.getBoolean("shortcut", false)) {
+                addShortcut();
+            }
 
 //        logout(SplashScreen.this);
-        Intent intent = new Intent(SplashScreen.this,ServiceCheck.class);
-        stopService(intent);
+            Intent intent = new Intent(SplashScreen.this, ServiceCheck.class);
+            stopService(intent);
 
 //        installplayer();
 //        AISOnAirTV();
 //        launchSplash();
 
 
-
-        // Check for the previous Client and uninstall it
-        try
-        {
-            PackageManager oPackageManager = getPackageManager();
-            PackageInfo oPackageInfo = oPackageManager.getPackageInfo(m_sPackageToUninstall, PackageManager.GET_ACTIVITIES);
-            if (oPackageInfo != null)
-            {
+            // Check for the previous Client and uninstall it
+            try {
+                PackageManager oPackageManager = getPackageManager();
+                PackageInfo oPackageInfo = oPackageManager.getPackageInfo(m_sPackageToUninstall, PackageManager.GET_ACTIVITIES);
+                if (oPackageInfo != null) {
 
 
-                Uri oPackageUri = Uri.parse("package:" + m_sPackageToUninstall);
-                Intent oIntent = new Intent(Intent.ACTION_DELETE, oPackageUri);
-                // wait till the uninstall is not completed
-                startActivityForResult(oIntent, UNINSTALL_REQUEST_CODE);
-                SystemClock.sleep(8000);
+                    Uri oPackageUri = Uri.parse("package:" + m_sPackageToUninstall);
+                    Intent oIntent = new Intent(Intent.ACTION_DELETE, oPackageUri);
+                    // wait till the uninstall is not completed
+                    startActivityForResult(oIntent, UNINSTALL_REQUEST_CODE);
+                    SystemClock.sleep(8000);
 
-                launchSplash();
+                    launchSplash();
 
 
-            }
-            else
-            {
+                } else {
+                    //launchApp();
+                    launchSplash();
+                }
+            } catch (PackageManager.NameNotFoundException e) {
                 //launchApp();
                 launchSplash();
             }
         }
-        catch (PackageManager.NameNotFoundException e)
-        {
-            //launchApp();
-            launchSplash();
-        }
-    }
     }
 
+    //Check Internet onLine
 
-    public boolean isOnline(Context c) {
-        ConnectivityManager cm = (ConnectivityManager) c.getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo ni = cm.getActiveNetworkInfo();
+    public boolean isOnline(Context context) {
 
-        if (ni != null && ni.isConnected())
+        ConnectivityManager connectivityManager = (ConnectivityManager)
+                context.getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
+
+        if (networkInfo != null && networkInfo.isConnected())
+            //Internet OK can Connected Server
             return true;
         else
+            // Internet False
             return false;
-    }
+
+    }   // isOnline
 
     private void addShortcut() {
         //Adding shortcut for MainActivity
@@ -125,7 +118,7 @@ public class SplashScreen extends Activity {
         Intent addIntent = new Intent();
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_INTENT, shortcutIntent);
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_NAME, Shortcutname);
-        addIntent.putExtra(Intent.EXTRA_SHORTCUT_ICON_RESOURCE,Intent.ShortcutIconResource.fromContext(getApplicationContext(), R.drawable.logo));
+        addIntent.putExtra(Intent.EXTRA_SHORTCUT_ICON_RESOURCE, Intent.ShortcutIconResource.fromContext(getApplicationContext(), R.drawable.logo));
         addIntent.putExtra("duplicate", false);
         addIntent.setAction("com.android.launcher.action.INSTALL_SHORTCUT");
         getApplicationContext().sendBroadcast(addIntent);
@@ -139,11 +132,7 @@ public class SplashScreen extends Activity {
     }
 
 
-
-
-    private void launchSplash()
-    {
-
+    private void launchSplash() {
 
 
         // Launch the new client
@@ -186,8 +175,6 @@ public class SplashScreen extends Activity {
     }
 
 
-
-
 //    public static void logout(Context context){
 //        DataStore dataStore = new DataStore(context);
 //        dataStore.SavedSharedPreference(DataStore.USER_ID, "");
@@ -201,9 +188,6 @@ public class SplashScreen extends Activity {
 //    }
 
 
-
-
-
     @Override
     protected void onPause() {
         // TODO Auto-generated method stub
@@ -212,13 +196,10 @@ public class SplashScreen extends Activity {
     }
 
 
-
-    protected void onActivityResult(int nRequestCode, int nResultCode, Intent oIntent)
-    {
+    protected void onActivityResult(int nRequestCode, int nResultCode, Intent oIntent) {
         super.onActivityResult(nRequestCode, nResultCode, oIntent);
 
-        if (nRequestCode == UNINSTALL_REQUEST_CODE)
-        {
+        if (nRequestCode == UNINSTALL_REQUEST_CODE) {
             launchSplash();
         }
     }
@@ -250,8 +231,6 @@ public class SplashScreen extends Activity {
         }
         return dialog;
     }
-
-
 
 
 }
