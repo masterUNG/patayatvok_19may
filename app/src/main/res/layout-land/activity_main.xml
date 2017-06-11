@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/black"
-    tools:context="com.royle.tvmaster.MainActivity" >
+    tools:context="com.royle.beartv2.MainActivity" >
 
     <LinearLayout
         android:id="@+id/linearLayout1"

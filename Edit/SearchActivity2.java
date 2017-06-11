@@ -1,4 +1,4 @@
-package com.royle.tvmaster;
+package com.royle.beartv;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

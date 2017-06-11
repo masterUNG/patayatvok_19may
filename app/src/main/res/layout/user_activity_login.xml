@@ -54,7 +54,7 @@
                 android:maxLength="10"
                 android:textSize="15sp">
 
-                <requestFocus />
+
             </EditText>
 
         </LinearLayout>
@@ -120,24 +120,47 @@
         <LinearLayout
             android:layout_width="300dp"
             android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
-            android:weightSum="2"
-            android:layout_gravity="center_horizontal">
+            android:weightSum="2">
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="กดลูกศรลง...  เพื่อเข้าสู่ระบบ" />
+
+            <requestFocus
+                layout_width="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
 
         </LinearLayout>
 
         <Button
             android:id="@+id/btnLogin_login"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
             android:layout_marginRight="5dp"
             android:layout_weight="1"
             android:background="@drawable/selector_green_corner"
             android:text="เข้าสู่ระบบ"
             android:textColor="#ffffff"
-            android:textStyle="bold"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:textSize="15sp" />
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"></LinearLayout>
+
 
     </LinearLayout>
+
 
 </RelativeLayout>

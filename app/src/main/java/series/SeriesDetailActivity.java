@@ -27,9 +27,9 @@ import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
-import com.royle.tvmaster.Mxplayer;
-import com.royle.tvmaster.R;
-import com.royle.tvmaster.SearchSRActivity;
+import com.royle.beartv2.Mxplayer;
+import com.royle.beartv2.R;
+import com.royle.beartv2.SearchSRActivity;
 
 import org.json.JSONObject;
 

@@ -20,9 +20,9 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tvmaster.MainActivity;
-import com.royle.tvmaster.R;
-import com.royle.tvmaster.SearchActivity;
+import com.royle.beartv2.MainActivity;
+import com.royle.beartv2.R;
+import com.royle.beartv2.SearchActivity;
 
 import java.util.ArrayList;
 

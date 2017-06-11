@@ -14,7 +14,7 @@ import android.os.Looper;
 import android.os.Message;
 import android.widget.Toast;
 
-import com.royle.tvmaster.MainActivity;
+import com.royle.beartv2.MainActivity;
 import org.json.JSONObject;
 
 import helper.DataStore;

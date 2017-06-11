@@ -21,9 +21,9 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tvmaster.Mxplayer;
-import com.royle.tvmaster.R;
-import com.royle.tvmaster.SearchActivity;
+import com.royle.beartv2.Mxplayer;
+import com.royle.beartv2.R;
+import com.royle.beartv2.SearchActivity;
 
 import org.json.JSONObject;
 

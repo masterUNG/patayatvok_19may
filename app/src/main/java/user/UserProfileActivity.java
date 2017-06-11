@@ -12,9 +12,9 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tvmaster.MainActivity;
-import com.royle.tvmaster.R;
-import com.royle.tvmaster.ServiceCheck;
+import com.royle.beartv2.MainActivity;
+import com.royle.beartv2.R;
+import com.royle.beartv2.ServiceCheck;
 
 import org.json.JSONObject;
 

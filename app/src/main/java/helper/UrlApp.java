@@ -2,7 +2,7 @@ package helper;
 
 public class UrlApp {
 
-    public static final String API = "http://uway.bear-tv.com/api/";
+    public static final String API = "http://4k.bear-tv.com/api/";
     //token
     public static final String CHECK_TOKEN = "http://pataya.bear-tv.com/api/token_check/";
     //user

@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.royle.tvmaster.R;
+import com.royle.beartv2.R;
 
 
 public class SupportActivity extends Activity {

@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.royle.tvmaster.MovieDetailActivity" >
+    tools:context="com.royle.beartv2.MovieDetailActivity" >
 
     <item
         android:id="@+id/action_settings"

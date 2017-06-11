@@ -15,8 +15,8 @@ import android.widget.GridView;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.royle.tvmaster.R;
-import com.royle.tvmaster.SearchSRActivity;
+import com.royle.beartv2.R;
+import com.royle.beartv2.SearchSRActivity;
 
 import java.util.ArrayList;
 

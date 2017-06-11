@@ -14,8 +14,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.royle.tvmaster.MainActivity;
-import com.royle.tvmaster.R;
+import com.royle.beartv2.MainActivity;
+import com.royle.beartv2.R;
 
 
 public class CheckTrueMoneyActivity extends Activity {

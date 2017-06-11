@@ -1,7 +1,7 @@
 package user;
 
-import com.royle.tvmaster.R;
-import com.royle.tvmaster.WebViewPayPalActivity;
+import com.royle.beartv2.R;
+import com.royle.beartv2.WebViewPayPalActivity;
 
 import android.app.Activity;
 import android.app.AlertDialog;

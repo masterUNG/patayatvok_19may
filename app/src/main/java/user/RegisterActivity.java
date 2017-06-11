@@ -13,8 +13,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.royle.tvmaster.MainActivity;
-import com.royle.tvmaster.R;
+import com.royle.beartv2.MainActivity;
+import com.royle.beartv2.R;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;

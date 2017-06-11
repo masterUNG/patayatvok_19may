@@ -17,8 +17,8 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Gallery;
 import android.widget.TextView;
 
-import com.royle.tvmaster.MainActivity;
-import com.royle.tvmaster.R;
+import com.royle.beartv2.MainActivity;
+import com.royle.beartv2.R;
 
 import java.util.ArrayList;
 

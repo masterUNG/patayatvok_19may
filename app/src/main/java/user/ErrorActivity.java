@@ -1,6 +1,6 @@
 package user;
 
-import com.royle.tvmaster.R;
+import com.royle.beartv2.R;
 
 import android.app.Activity;
 import android.os.Bundle;

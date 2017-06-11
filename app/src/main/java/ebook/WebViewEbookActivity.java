@@ -7,7 +7,7 @@ import android.view.Window;
 import android.webkit.WebSettings.PluginState;
 import android.webkit.WebView;
 
-import com.royle.tvmaster.R;
+import com.royle.beartv2.R;
 
 public class WebViewEbookActivity extends Activity {
 	

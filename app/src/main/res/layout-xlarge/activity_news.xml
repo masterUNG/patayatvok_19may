@@ -7,7 +7,7 @@
     android:padding="10dp"
     android:weightSum="3"
     android:background="#000000"
-    tools:context="com.royle.tvmaster.NewsActivity" >
+    tools:context="com.royle.beartv2.NewsActivity" >
 
     <ImageView
         android:id="@+id/img_news"
