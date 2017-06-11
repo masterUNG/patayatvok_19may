@@ -344,6 +344,23 @@ public class MainActivity extends FragmentActivity {
 
 
         });
+
+
+        clickForMember();
+
+
+        btnSearch.setOnClickListener(new OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
+                startActivity(intent);
+            }
+        });
+
+    }
+
+    private void clickForMember() {
         btnUserProfile.setOnClickListener(new OnClickListener() {
 
             @Override
@@ -359,15 +376,6 @@ public class MainActivity extends FragmentActivity {
 
             }
         });
-        btnSearch.setOnClickListener(new OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, SearchActivity.class);
-                startActivity(intent);
-            }
-        });
-
     }
 
     private void imageButtonTV() {
@@ -377,7 +385,8 @@ public class MainActivity extends FragmentActivity {
             public void onClick(View v) {
 
                 //Check ว่ามี id user หรือเปล่า ถ้ามี True ไม่มี false
-                if (dataStore.checkUser()) {
+//                if (dataStore.checkUser()) {
+                if (true) {
 
                     intent = new Intent(MainActivity.this, IpTvActivity.class);
                     intent.putExtra("id", "2");
