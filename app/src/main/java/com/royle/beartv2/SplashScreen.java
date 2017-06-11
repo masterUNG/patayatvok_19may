@@ -42,19 +42,24 @@ public class SplashScreen extends Activity {
         setContentView(R.layout.splash);
 
         //Check Internet onLine ? True ==> Internet OK, False ==> Internet False
+
         if (!isOnline(this)) {
 
+            //Internet False
             showDialog(DIALOG_ERROR_CONNECTION); //displaying the created dialog.
             super.onPause();
+
         } else {
-            //Internet available. Do what's required when internet is available.
+            //Internet available.
 
-
+            //ไปดึกค่า ที่บันทึกไว้ในเครื่องว่า มีการ สร้าง ShortCut หรือยัง ?
             appSettings = getSharedPreferences(appname, MODE_PRIVATE);
-            // Make sure you only run addShortcut() once, not to create duplicate shortcuts.
+
+            //Check Create Shortcut at Home Desktop ?
             if (!appSettings.getBoolean("shortcut", false)) {
                 addShortcut();
             }
+
 
 //        logout(SplashScreen.this);
             Intent intent = new Intent(SplashScreen.this, ServiceCheck.class);
@@ -89,8 +94,8 @@ public class SplashScreen extends Activity {
                 //launchApp();
                 launchSplash();
             }
-        }
-    }
+        }   // if
+    }   // Main Method
 
     //Check Internet onLine
 
@@ -109,27 +114,30 @@ public class SplashScreen extends Activity {
 
     }   // isOnline
 
+    //การสร้าง Shortcut บน Desktop
     private void addShortcut() {
-        //Adding shortcut for MainActivity
-        //on Home screen
+
         Intent shortcutIntent = new Intent(getApplicationContext(), SplashScreen.class);
         shortcutIntent.setAction(Intent.ACTION_MAIN);
 
         Intent addIntent = new Intent();
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_INTENT, shortcutIntent);
         addIntent.putExtra(Intent.EXTRA_SHORTCUT_NAME, Shortcutname);
-        addIntent.putExtra(Intent.EXTRA_SHORTCUT_ICON_RESOURCE, Intent.ShortcutIconResource.fromContext(getApplicationContext(), R.drawable.logo));
+        addIntent.putExtra(Intent.EXTRA_SHORTCUT_ICON_RESOURCE,
+                Intent.ShortcutIconResource.fromContext(getApplicationContext(),
+                        R.drawable.logo));
         addIntent.putExtra("duplicate", false);
         addIntent.setAction("com.android.launcher.action.INSTALL_SHORTCUT");
         getApplicationContext().sendBroadcast(addIntent);
 
+        //คือการบันทึกค่า true ไปที่ key shortcut
         SharedPreferences.Editor prefEditor = appSettings.edit();
         prefEditor.putBoolean("shortcut", true);
         prefEditor.commit();
 
         Toast.makeText(getApplicationContext(), "กำลังสร้าง... Shortcut", Toast.LENGTH_SHORT).show();
 
-    }
+    }   // addShortcut
 
 
     private void launchSplash() {
@@ -210,6 +218,7 @@ public class SplashScreen extends Activity {
         Dialog dialog = null;
         switch (id) {
             case DIALOG_ERROR_CONNECTION:
+
                 AlertDialog.Builder errorDialog = new AlertDialog.Builder(this);
                 errorDialog.setTitle("ไม่ได้เชื่อมต่อ INTERNET");
                 errorDialog.setMessage("กรุณาเชื่อมต่อ WIFI ก่อนแล้วเข้าแอพอีกครั้ง");
@@ -230,7 +239,8 @@ public class SplashScreen extends Activity {
                 break;
         }
         return dialog;
-    }
+
+    }   // onCreateDialog
 
 
 }

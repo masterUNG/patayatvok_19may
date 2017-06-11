@@ -926,16 +926,20 @@ public class MainActivity extends FragmentActivity {
         dataStore.ClearSharedPreference();
     }
 
+
+
     @Override
     protected Dialog onCreateDialog(int id) {
+
         Dialog dialog = null;
         switch (id) {
+
             case DIALOG_ERROR_CONNECTION:
+
                 AlertDialog.Builder errorDialog = new AlertDialog.Builder(this);
                 errorDialog.setTitle("ไม่ได้เชื่อมต่อ INTERNET");
                 errorDialog.setMessage("กรุณาเชื่อมต่อ WIFI ก่อนแล้วเข้าแอพอีกครั้ง");
-                errorDialog.setNeutralButton("ตกลง",
-                        new DialogInterface.OnClickListener() {
+                errorDialog.setNeutralButton("ตกลง", new DialogInterface.OnClickListener() {
 
                             @Override
                             public void onClick(DialogInterface dialog, int id) {
@@ -949,9 +953,11 @@ public class MainActivity extends FragmentActivity {
 
             default:
                 break;
-        }
+
+        }   // swift
         return dialog;
-    }
+
+    } // onCreate Dialog
 
     private void dialogCode() {
         final AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(this);
