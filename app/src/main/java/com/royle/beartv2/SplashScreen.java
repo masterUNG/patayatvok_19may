@@ -60,45 +60,47 @@ public class SplashScreen extends Activity {
                 addShortcut();
             }
 
-
 //        logout(SplashScreen.this);
             Intent intent = new Intent(SplashScreen.this, ServiceCheck.class);
             stopService(intent);
 
-//        installplayer();
-//        AISOnAirTV();
-//        launchSplash();
+            // Check ว่ามีแอฟที่ใช้ package ==> com.cmiptv.app
+            // อยู่ในเครื่องไหม ? ถ้ามี จะเข้าหน้า ถอดแอฟของ Setting
+            checkOldApp();
+
+        }   // if
+
+    }   // Main Method
+
+    private void checkOldApp() {
+
+        try {
+            PackageManager oPackageManager = getPackageManager();
+            PackageInfo oPackageInfo = oPackageManager
+                    .getPackageInfo(m_sPackageToUninstall, PackageManager.GET_ACTIVITIES);
+
+            if (oPackageInfo != null) {
+
+                Uri oPackageUri = Uri.parse("package:" + m_sPackageToUninstall);
+                Intent oIntent = new Intent(Intent.ACTION_DELETE, oPackageUri);
+                // wait till the uninstall is not completed
+                startActivityForResult(oIntent, UNINSTALL_REQUEST_CODE);
+                SystemClock.sleep(8000);
+
+                launchSplash();
 
 
-            // Check for the previous Client and uninstall it
-            try {
-                PackageManager oPackageManager = getPackageManager();
-                PackageInfo oPackageInfo = oPackageManager.getPackageInfo(m_sPackageToUninstall, PackageManager.GET_ACTIVITIES);
-                if (oPackageInfo != null) {
-
-
-                    Uri oPackageUri = Uri.parse("package:" + m_sPackageToUninstall);
-                    Intent oIntent = new Intent(Intent.ACTION_DELETE, oPackageUri);
-                    // wait till the uninstall is not completed
-                    startActivityForResult(oIntent, UNINSTALL_REQUEST_CODE);
-                    SystemClock.sleep(8000);
-
-                    launchSplash();
-
-
-                } else {
-                    //launchApp();
-                    launchSplash();
-                }
-            } catch (PackageManager.NameNotFoundException e) {
+            } else {
                 //launchApp();
                 launchSplash();
             }
-        }   // if
-    }   // Main Method
+        } catch (PackageManager.NameNotFoundException e) {
+            //launchApp();
+            launchSplash();
+        }
+    }
 
     //Check Internet onLine
-
     public boolean isOnline(Context context) {
 
         ConnectivityManager connectivityManager = (ConnectivityManager)
@@ -203,7 +205,7 @@ public class SplashScreen extends Activity {
         finish();
     }
 
-
+    // ถ้าถอดแอฟเก่าเสร็จแล้ว ให้เล่น Animate
     protected void onActivityResult(int nRequestCode, int nResultCode, Intent oIntent) {
         super.onActivityResult(nRequestCode, nResultCode, oIntent);
 

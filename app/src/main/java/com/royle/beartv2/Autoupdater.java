@@ -21,20 +21,22 @@ import meklib.MCrypt;
  */
 public class Autoupdater{
 
-    /**
-     * Objeto contexto para ejecutar el instalador.
-     * Se puede buscar otra forma mas "limpia".
-     */
-    Context context;
 
-    /**
-     * Listener que se llamara despues de ejecutar algun AsyncTask.
-     */
-    Runnable listener;
+    private Context context;
+    private Runnable listener;
 
 	/**
      * The link to the public file version information. It may be
      * Dropbox, its own hosting or any other service.
+     *
+     * สิ่งที่ได้จาก url นี้
+     *
+     * {
+     "      versionCode":1,
+     "      versionName":"1",
+     "      downloadURL":"http://7topup.com/iLike4K/pattayaTV21.apk"
+     }
+     *
      */
     private static final String INFO_FILE = "http://7topup.com/iLike4K/Version.txt";
 
@@ -98,9 +100,12 @@ public class Autoupdater{
             // Remote data
             String data = downloadHttp(new URL(INFO_FILE));
             //String decrypted = new String(mcrypt.decrypt(data));
+
             JSONObject json = new JSONObject(data);
             latestVersionCode = json.getInt("versionCode");
             latestVersionName = json.getString("versionName");
+
+            //ใส่ url ที่ apk file ที่ใช้ในการติดตั่ง แอฟใหม่ได้
             downloadURL = json.getString("downloadURL");
             Log.d("AutoUpdate", "Data obtained successfully");
         }catch(JSONException e){
