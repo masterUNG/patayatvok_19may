@@ -3,75 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="F:\4k\patayatvok_19may\librarySlider\build\intermediates\bundles\default\libs\NineOldAndroid-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
-        <dex dex="F:\4k\patayatvok_19may\app\build\intermediates\pre-dexed\debug\NineOldAndroid-2.4.0_901269f5bf4bce4a36c4266424f333070fb07ae3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\myproject\patayatvok_19may\librarySlider\build\intermediates\bundles\default\libs\NineOldAndroid-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
-        <dex dex="F:\myproject\patayatvok_19may\app\build\intermediates\pre-dexed\goldplayer\debug\NineOldAndroid-2.4.0_ec6cc3fca488a75fb093e486da46a6036744d3b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\4k\patayatvok_19may\universal-image-loader-1.9.5\universal-image-loader-1.9.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="F:\4k\patayatvok_19may\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_1b11b1469f4713a31fa6dc7d37c95bfc2c03faa1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\myproject\patayatvok_19may\librarySlider\build\intermediates\bundles\default\libs\picasso-2.3.3.jar"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/default/libs/picasso-2.3.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
-        <dex dex="F:\myproject\patayatvok_19may\app\build\intermediates\pre-dexed\goldplayer\debug\picasso-2.3.3_6e2227ce2b700e4c5f6aecccd40c744b78c54a35.jar" />
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/app/build/intermediates/pre-dexed/debug/picasso-2.3.3_b2afe408d9f45a102aa195147ece6609fb8f0ede.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\4k\patayatvok_19may\librarySlider\build\intermediates\bundles\default\libs\picasso-2.3.3.jar"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
-        <dex dex="F:\4k\patayatvok_19may\app\build\intermediates\pre-dexed\debug\picasso-2.3.3_278695e75cf9c49a50bed4acc0dccf8c6a2f8ef8.jar" />
+        sha1="fa68eb2864226224e80a512e8fcbbdf0b17aa276">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/app/build/intermediates/pre-dexed/debug/classes_dc86adc380d90b81c4a81ace0f121a4a8ba17601.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\myproject\patayatvok_19may\librarySlider\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2c5f76e7a6252220ceccb1c5b63d664ba52b078b">
-        <dex dex="F:\myproject\patayatvok_19may\app\build\intermediates\pre-dexed\goldplayer\debug\classes_ff1fc75d5dc36562f17cb4d14edcfd9870cfd27e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\myproject\patayatvok_19may\universal-image-loader-1.9.5\universal-image-loader-1.9.5.jar"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/universal-image-loader-1.9.5/universal-image-loader-1.9.5.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="F:\myproject\patayatvok_19may\app\build\intermediates\pre-dexed\goldplayer\debug\universal-image-loader-1.9.5_94abe6f193c78b9ebd6fd2c3cb7ce0f0b2b0e1e5.jar" />
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_89aaf94f8c0cbfe97ac8269394e1bc3d902c2d3a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\4k\patayatvok_19may\librarySlider\build\intermediates\bundles\default\classes.jar"
+        jar="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/default/libs/NineOldAndroid-2.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="2c5f76e7a6252220ceccb1c5b63d664ba52b078b">
-        <dex dex="F:\4k\patayatvok_19may\app\build\intermediates\pre-dexed\debug\classes_05c55f6141145c5c8936f843cda956f7d598a325.jar" />
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/app/build/intermediates/pre-dexed/debug/NineOldAndroid-2.4.0_ec28059a0f0db1360a6a086920519a13e76ed649.jar" />
     </item>
 
 </items>
