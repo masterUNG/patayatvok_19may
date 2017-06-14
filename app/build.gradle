@@ -5,7 +5,7 @@ android {
         san {
             keyAlias 'san'
             keyPassword '123456'
-            storeFile file('/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/jks/san.jks')
+            storeFile file('F:/myproject/patayatvok_19may1/jks/san.jks')
             storePassword '123456'
         }
     }

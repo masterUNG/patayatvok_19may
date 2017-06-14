@@ -1,34 +1,18 @@
 [
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slider_layout.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\slider_layout.xml"
+        "merged": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slider_layout.xml",
+        "source": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\slider_layout.xml"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/res/merged/androidTest/debug/layout/indicator_layout.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/debug/res/layout/indicator_layout.xml"
+        "merged": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_text.xml",
+        "source": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_text.xml"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_text.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_text.xml"
+        "merged": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_default.xml",
+        "source": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_default.xml"
     },
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/res/merged/androidTest/debug/layout/render_type_text.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/debug/res/layout/render_type_text.xml"
-    },
-    {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/res/merged/androidTest/debug/layout/slider_layout.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/debug/res/layout/slider_layout.xml"
-    },
-    {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_default.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_default.xml"
-    },
-    {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\indicator_layout.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\indicator_layout.xml"
-    },
-    {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/res/merged/androidTest/debug/layout/render_type_default.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/debug/res/layout/render_type_default.xml"
+        "merged": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\indicator_layout.xml",
+        "source": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\layout\\indicator_layout.xml"
     }
 ]

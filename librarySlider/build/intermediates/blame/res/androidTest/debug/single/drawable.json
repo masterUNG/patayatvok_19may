@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/res/merged/androidTest/debug/drawable/indicator_corner_bg.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/librarySlider/build/intermediates/bundles/debug/res/drawable/indicator_corner_bg.xml"
-    },
-    {
-        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_corner_bg.xml",
-        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may3/F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_corner_bg.xml"
+        "merged": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_corner_bg.xml"
     }
 ]

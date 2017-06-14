@@ -99,5 +99,6 @@
     <orderEntry type="library" exported="" name="support-v4-19.1.0" level="project" />
     <orderEntry type="library" exported="" name="picasso-2.3.3" level="project" />
     <orderEntry type="module" module-name="universal-image-loader-1.9.5" exported="" />
+    <orderEntry type="library" exported="" name="android-android-19" level="project" />
   </component>
 </module>
