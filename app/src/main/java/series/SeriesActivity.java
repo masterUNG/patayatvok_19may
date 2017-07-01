@@ -85,17 +85,11 @@ public class SeriesActivity extends Activity {
 	}
 
 	public void checkUser() {
-		if (dataStore.checkUser()) {
-			txtUsername.setVisibility(View.VISIBLE);
-			txtExpire.setVisibility(View.VISIBLE);
-			txtUsername.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
-			txtLevel.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
-			txtExpire.setText("หมดอายุ : " + dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
-		} else {
-			txtUsername.setVisibility(View.GONE);
-			txtExpire.setVisibility(View.GONE);
-			txtLevel.setVisibility(View.GONE);
-		}
+		txtUsername.setVisibility(View.VISIBLE);
+		txtExpire.setVisibility(View.VISIBLE);
+		txtUsername.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
+		txtLevel.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
+		txtExpire.setText("หมดอายุ : " + dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
 	}
 
 	public void showContent() {

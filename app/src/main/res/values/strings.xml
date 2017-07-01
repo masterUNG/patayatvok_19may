@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">iLike4K v13</string>
+    <string name="app_name">doo4k</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_refill">RefillActivity</string>
@@ -19,7 +19,7 @@
     <string name="title_activity_web_view_ebook">WebViewEbookActivity</string>
     <string name="title_activity_ebook_category">EbookCategoryActivity</string>
     <string name="html"><![CDATA[]]></string>
-    <string name="version">13.1</string>
+    <string name="version">1.1</string>
     <string name="cancel">ยกเลิก</string>
     <string name="accept">ตกลง</string>
 

@@ -119,7 +119,7 @@ public class SeriesCategoryActivity extends Activity{
 	}
 
 	public void checkUser() {
-		if (dataStore.checkUser()) {
+		if (true) {
 			txtUsername.setVisibility(View.VISIBLE);
 			txtLevel.setVisibility(View.VISIBLE);
 			txtExpire.setVisibility(View.VISIBLE);

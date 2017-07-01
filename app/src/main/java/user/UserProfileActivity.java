@@ -124,7 +124,7 @@ public class UserProfileActivity extends Activity {
 	@Override
 	protected void onResume() {
 		super.onResume();
-		if (dataStore.checkUser()) {
+		if (true) {
 			txtUsername.setVisibility(View.VISIBLE);
 			txtExpire.setVisibility(View.VISIBLE);
 			txtLevel.setVisibility(View.VISIBLE);

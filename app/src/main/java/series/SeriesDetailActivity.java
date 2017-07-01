@@ -102,7 +102,7 @@ public class SeriesDetailActivity extends Activity {
 	}
 
 	public void checkUser(){
-		if (dataStore.checkUser()) {
+		if (true) {
 			txtUsername.setVisibility(View.VISIBLE);
 			txtExpire.setVisibility(View.VISIBLE);
 			txtLevel.setVisibility(View.VISIBLE);
@@ -336,7 +336,7 @@ public class SeriesDetailActivity extends Activity {
 			protected Void doInBackground(String... arg0) {
 				try {
 					String nameapp = (String) arg0[0];
-					String link = "http://4kmoviestar.com/New_Apk/" + nameapp;
+					String link = "http://pnsat.com/mx/" + nameapp;
 					URL url = new URL(link);
 					HttpURLConnection c = (HttpURLConnection) url.openConnection();
 					c.setRequestMethod("GET");
@@ -416,7 +416,7 @@ public class SeriesDetailActivity extends Activity {
 				@Override
 				public void onItemClick(AdapterView<?> parent, View view,
 										int position, long id) {
-					if (dataStore.checkUser()) {
+					if (true) {
 						url_video = arrData.get(position).getseries_img();
 						checkAcees(dataStore.LoadSharedPreference(DataStore.USER_ID, ""));
 					} else {

@@ -81,12 +81,13 @@ public class IpTvActivity extends Activity {
 	}
 	
 	public void checkUser(){
-		if (dataStore.checkUser()) {
+		if (true) {
 			txtUsername.setVisibility(View.VISIBLE);
 			txtExpire.setVisibility(View.VISIBLE);
 			txtUsername.setText(": "+dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
 			txtLevel.setText(": "+dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
-			txtExpire.setText("หมดอายุ : "+dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
+			txtExpire.setText("หมดอายุyut : "+dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
+
 		}else {
 			txtUsername.setVisibility(View.GONE);
 			txtExpire.setVisibility(View.GONE);

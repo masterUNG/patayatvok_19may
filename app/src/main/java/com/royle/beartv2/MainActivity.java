@@ -144,7 +144,7 @@ public class MainActivity extends FragmentActivity {
             public void onClick(View v) {
 
                 initWidget();
-                if (dataStore.checkUser()) {
+                if (true) {
                     Intent intent = new Intent(MainActivity.this, RefillActivity.class);
                     startActivity(intent);
                 } else {
@@ -161,7 +161,7 @@ public class MainActivity extends FragmentActivity {
 //        btnPayPal.setOnClickListener(new OnClickListener() {
 //            @Override
 //            public void onClick(View v) {
-//                if (dataStore.checkUser()) {
+//                if (true) {
 //                    intent = new Intent(MainActivity.this, WebViewPayPalActivity.class);
 //                    startActivity(intent);
 //                    overridePendingTransition(R.anim.slide_in_up, R.anim.slide_out_up);
@@ -174,7 +174,7 @@ public class MainActivity extends FragmentActivity {
 //        btnCode.setOnClickListener(new OnClickListener() {
 //            @Override
 //            public void onClick(View v) {
-//                if (dataStore.checkUser()) {
+//                if (true) {
 //                    dialogCode();
 //                } else {
 //                    startActivity(new Intent(MainActivity.this, LoginActivity.class));
@@ -190,12 +190,13 @@ public class MainActivity extends FragmentActivity {
             public void onClick(View v) {
 
                 if (dataStore.checkUser()) {
+  //              if (true) {
                     intent = new Intent(MainActivity.this, MovieActivity.class);
                     startActivity(intent);
 
                     // TODO Auto-generated method stub
                     try {
-                        if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+                        if (playerInstalledOrNot("com.mxtech.videoplayer.pro1")) {
 
                             Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
 
@@ -232,7 +233,7 @@ public class MainActivity extends FragmentActivity {
             @Override
             public void onClick(View v) {
 
-                if (dataStore.checkUser()) {
+                if (true) {
                     intent = new Intent(MainActivity.this, SeriesActivity.class);
                     startActivity(intent);
 
@@ -363,7 +364,7 @@ public class MainActivity extends FragmentActivity {
 
             @Override
             public void onClick(View v) {
-                if (dataStore.checkUser()) {
+                if (true) {
                     Intent intent = new Intent(MainActivity.this, UserProfileActivity.class);
                     startActivity(intent);
 
@@ -403,6 +404,8 @@ public class MainActivity extends FragmentActivity {
                         } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
 
                         } else if (playerInstalledOrNot("com.android.gallery3d")) {
+
+                        } else if (playerInstalledOrNot("org.videolan.vlc")) {
 
 
                         } else {
@@ -502,7 +505,7 @@ public class MainActivity extends FragmentActivity {
     }
 
     public void checkUser() {
-        if (dataStore.checkUser()) {
+        if (true) {
 
             txtExpire.setVisibility(View.VISIBLE);
 
@@ -531,7 +534,7 @@ public class MainActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
 
-                    if (dataStore.checkUser()) {
+                    if (true) {
                         Intent intent = new Intent(MainActivity.this, MovieDetailActivity.class);
                         intent.putExtra("name", arrData.get(0).getMovie_name());
                         intent.putExtra("pic", arrData.get(0).getMovie_img());
@@ -560,7 +563,7 @@ public class MainActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
 
-                    if (dataStore.checkUser()) {
+                    if (true) {
                         Intent intent = new Intent(MainActivity.this, MovieDetailActivity.class);
                         intent.putExtra("name", arrData.get(0).getMovie_name());
                         intent.putExtra("pic", arrData.get(0).getMovie_img());
@@ -581,7 +584,7 @@ public class MainActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
 
-                    if (dataStore.checkUser()) {
+                    if (true) {
                         Intent intent = new Intent(MainActivity.this, MovieDetailActivity.class);
                         intent.putExtra("name", arrData.get(1).getMovie_name());
                         intent.putExtra("pic", arrData.get(1).getMovie_img());
@@ -611,7 +614,7 @@ public class MainActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
 
-                    if (dataStore.checkUser()) {
+                    if (true) {
                         Intent intent = new Intent(MainActivity.this, MovieDetailActivity.class);
                         intent.putExtra("name", arrData.get(0).getMovie_name());
                         intent.putExtra("pic", arrData.get(0).getMovie_img());
@@ -633,7 +636,7 @@ public class MainActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
 
-                    if (dataStore.checkUser()) {
+                    if (true) {
                         Intent intent = new Intent(MainActivity.this, MovieDetailActivity.class);
                         intent.putExtra("name", arrData.get(1).getMovie_name());
                         intent.putExtra("pic", arrData.get(1).getMovie_img());
@@ -655,7 +658,7 @@ public class MainActivity extends FragmentActivity {
                 @Override
                 public void onClick(View v) {
 
-                    if (dataStore.checkUser()) {
+                    if (true) {
                         Intent intent = new Intent(MainActivity.this, MovieDetailActivity.class);
                         intent.putExtra("name", arrData.get(2).getMovie_name());
                         intent.putExtra("pic", arrData.get(2).getMovie_img());

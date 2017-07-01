@@ -76,7 +76,7 @@ public class RefillActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
-				if (dataStore.checkUser()) {
+				if (true) {
 					intent = new Intent(RefillActivity.this, WebViewPayPalActivity.class);
 					startActivity(intent);
 					overridePendingTransition(R.anim.slide_in_up, R.anim.slide_out_up);
@@ -90,7 +90,7 @@ public class RefillActivity extends Activity {
 
 			@Override
 			public void onClick(View v) {
-				if (dataStore.checkUser()) {
+				if (true) {
 					dialogCode();
 				} else {
 					startActivity(new Intent(RefillActivity.this, LoginActivity.class));

@@ -49,7 +49,7 @@ public class CheckTrueMoneyActivity extends Activity {
 			public void onClick(View v) {
 				user_id = dataStore.LoadSharedPreference(DataStore.USER_ID, "");
 				code = edtTrueMoney.getText().toString();
-				if (dataStore.checkUser()) {
+				if (true) {
 					if (user_id.length()>0&&code.length()>0) {
 						sentTrueMoney(user_id, code);
 					}else {

@@ -104,7 +104,7 @@ public class HowtoActivity extends Activity {
 	}
 
 	public void checkUser() {
-		if (dataStore.checkUser()) {
+		if (true) {
 			txtUsername.setVisibility(View.VISIBLE);
 			txtExpire.setVisibility(View.VISIBLE);
 			txtUsername.setText(": "+ dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
@@ -137,7 +137,7 @@ public class HowtoActivity extends Activity {
 					intent.putExtra("id", arrData.get(position).getTv_id());
 					startActivity(intent);
 				} else {
-					if (dataStore.checkUser()) {
+					if (true) {
 						link = arrData.get(position).getTv_link();
 						checkAcees(dataStore.LoadSharedPreference(
 								DataStore.USER_ID, ""));

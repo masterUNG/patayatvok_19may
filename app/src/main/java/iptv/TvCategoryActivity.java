@@ -42,342 +42,355 @@ import user.LoginActivity;
 import meklib.MCrypt;
 
 public class TvCategoryActivity extends Activity {
-	// widget
-	private GridView gridView;
-	private TextView txtUsername;
-	private TextView txtLevel;
-	private TextView txtExpire;
-	private ImageButton btnSearch;
-	private TextView txtSlide;
-	private MCrypt mcrypt = new MCrypt();
+    // widget
+    private GridView gridView;
+    private TextView txtUsername;
+    private TextView txtLevel;
+    private TextView txtExpire;
+    private ImageButton btnSearch;
+    private TextView txtSlide;
+    private MCrypt mcrypt = new MCrypt();
 
-	private ProgressDialog progressDialog;
+    private ProgressDialog progressDialog;
 
-	private ArrayList<IpTvData> arrData = new ArrayList<IpTvData>();
-	private String main_id;
-	private String id_tv;
+    private ArrayList<IpTvData> arrData = new ArrayList<IpTvData>();
+    private String main_id;
+    private String id_tv;
 
-	DataStore dataStore;
+    DataStore dataStore;
 
-	public String link;
+    public String link;
 
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
-		requestWindowFeature(Window.FEATURE_NO_TITLE);
-		setContentView(R.layout.iptv_activity_tv_category);
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        setContentView(R.layout.iptv_activity_tv_category);
 
-		progressDialog = new ProgressDialog(this);
-		dataStore = new DataStore(getBaseContext());
+        progressDialog = new ProgressDialog(this);
+        dataStore = new DataStore(getBaseContext());
 
-		main_id = getIntent().getStringExtra("main_id");
-		id_tv = getIntent().getStringExtra("id");
-		if (main_id != null) {
-			loadData(main_id);
-		} else {
-			loadData(id_tv);
-		}
+        main_id = getIntent().getStringExtra("main_id");
+        id_tv = getIntent().getStringExtra("id");
+        if (main_id != null) {
+            loadData(main_id);
+        } else {
+            loadData(id_tv);
+        }
 
-		txtUsername = (TextView) findViewById(R.id.txtUsername_iptvCat);
-		txtLevel = (TextView) findViewById(R.id.txtLevel_iptvCat);
-		txtExpire = (TextView) findViewById(R.id.txtExpire_iptvCat);
-		btnSearch = (ImageButton) findViewById(R.id.btnSearch_main);
-		txtSlide = (TextView) findViewById(R.id.txtSlide);
-		txtSlide.setSelected(true);
+        txtUsername = (TextView) findViewById(R.id.txtUsername_iptvCat);
+        txtLevel = (TextView) findViewById(R.id.txtLevel_iptvCat);
+        txtExpire = (TextView) findViewById(R.id.txtExpire_iptvCat);
+        btnSearch = (ImageButton) findViewById(R.id.btnSearch_main);
+        txtSlide = (TextView) findViewById(R.id.txtSlide);
+        txtSlide.setSelected(true);
 
-		btnSearch.setOnClickListener(new OnClickListener() {
+        btnSearch.setOnClickListener(new OnClickListener() {
 
-			@Override
-			public void onClick(View v) {
-				Intent intent = new Intent(TvCategoryActivity.this,
-						SearchActivity.class);
-				startActivity(intent);
-			}
-		});
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(TvCategoryActivity.this,
+                        SearchActivity.class);
+                startActivity(intent);
+            }
+        });
 
-	}
+    }
 
-	@Override
-	protected void onResume() {
-		super.onResume();
-		checkUser();
-	}
+    @Override
+    protected void onResume() {
+        super.onResume();
+        checkUser();
+    }
 
-	public void checkUser() {
-		if (dataStore.checkUser()) {
-			txtUsername.setVisibility(View.VISIBLE);
-			txtExpire.setVisibility(View.VISIBLE);
-			txtUsername.setText(": "+ dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
-			txtLevel.setText(": "+ dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
-			txtExpire.setText("หมดอายุ : " + dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
-		} else {
-			txtUsername.setVisibility(View.GONE);
-			txtExpire.setVisibility(View.GONE);
-			txtLevel.setVisibility(View.GONE);
-		}
-	}
+    public void checkUser() {
+        if (true) {
+            txtUsername.setVisibility(View.VISIBLE);
+            txtExpire.setVisibility(View.VISIBLE);
+            txtUsername.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
+            txtLevel.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
+            txtExpire.setText("หมดอายุxxxxx : " + dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, "xxx"));
+            //	txtExpire.setText("หมดอายุxxxxx : " + dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
+        } else {
+            txtUsername.setVisibility(View.GONE);
+            txtExpire.setVisibility(View.GONE);
+            txtLevel.setVisibility(View.GONE);
+        }
+    }
 
-	public void showContent() {
-		txtSlide.setText(Html.fromHtml(dataStore.LoadSharedPreference(DataStore.TEXT_SLIDE, "")));
-		gridView = (GridView) findViewById(R.id.gridView_tvCat);
-		gridView.setFocusable(true);
-		gridView.setFocusableInTouchMode(true);
-		gridView.requestFocus();
-		IpTvCategoryAdapter adapter = new IpTvCategoryAdapter(getBaseContext(),
-				R.layout.movie_row, arrData);
-		gridView.setAdapter(adapter);
-		gridView.setOnItemClickListener(new OnItemClickListener() {
-			Intent intent;
+    public void showContent() {
+        txtSlide.setText(Html.fromHtml(dataStore.LoadSharedPreference(DataStore.TEXT_SLIDE, "")));
+        gridView = (GridView) findViewById(R.id.gridView_tvCat);
+        gridView.setFocusable(true);
+        gridView.setFocusableInTouchMode(true);
+        gridView.requestFocus();
+        IpTvCategoryAdapter adapter = new IpTvCategoryAdapter(getBaseContext(),
+                R.layout.movie_row, arrData);
+        gridView.setAdapter(adapter);
+        gridView.setOnItemClickListener(new OnItemClickListener() {
+            Intent intent;
 
-			@Override
-			public void onItemClick(AdapterView<?> parent, View view,
-					int position, long id) {
-				if (main_id != null) {
-					intent = new Intent(TvCategoryActivity.this,
-							TvCategoryActivity.class);
-					intent.putExtra("id", arrData.get(position).getTv_id());
-					startActivity(intent);
-				} else {
-					if (dataStore.checkUser()) {
-						link = arrData.get(position).getTv_link();
-						checkAcees(dataStore.LoadSharedPreference(
-								DataStore.USER_ID, ""));
-					} else {
-						intent = new Intent(TvCategoryActivity.this,
-								LoginActivity.class);
-						startActivity(intent);
-					}
-				}
-			}
-		});
-	}
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view,
+                                    int position, long id) {
+                if (main_id != null) {
+                    intent = new Intent(TvCategoryActivity.this,
+                            TvCategoryActivity.class);
+                    intent.putExtra("id", arrData.get(position).getTv_id());
+                    startActivity(intent);
+                } else {
+                    if (true) {
+                        link = arrData.get(position).getTv_link();
+                        checkAcees(dataStore.LoadSharedPreference(
+                                DataStore.USER_ID, ""));
+                    } else {
+                        intent = new Intent(TvCategoryActivity.this,
+                                LoginActivity.class);
+                        startActivity(intent);
+                    }
+                }
+            }
+        });
+    }
 
-	public void loadData(String main_id) {
-		new DownloadDataTask().execute(main_id);
-	}
+    public void loadData(String main_id) {
+        new DownloadDataTask().execute(main_id);
+    }
 
-	public class DownloadDataTask extends AsyncTask<String, Void, Void> {
+    public class DownloadDataTask extends AsyncTask<String, Void, Void> {
 
-		@Override
-		protected void onPreExecute() {
-			super.onPreExecute();
-			progressDialog.show();
-		}
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
+            progressDialog.show();
+        }
 
 
-		@Override
-		protected Void doInBackground(String... params) {
-			IpTvData data = new IpTvData(getBaseContext());
+        @Override
+        protected Void doInBackground(String... params) {
+            IpTvData data = new IpTvData(getBaseContext());
 
-			if (main_id != null) {
-				arrData = data.getCategory(params[0]);
-			} else {
-				arrData = data.getList(params[0]);
-			}
-			return null;
-		}
+            if (main_id != null) {
+                arrData = data.getCategory(params[0]);
+            } else {
+                arrData = data.getList(params[0]);
+            }
+            return null;
+        }
 
-		@Override
-		protected void onPostExecute(Void result) {
-			super.onPostExecute(result);
-			progressDialog.dismiss();
-			showContent();
-		}
+        @Override
+        protected void onPostExecute(Void result) {
+            super.onPostExecute(result);
+            progressDialog.dismiss();
+            showContent();
+        }
 
-	}
+    }
 
-	public void checkAcees(String user_id) {
-		new CheckAccessTask().execute(user_id);
-	}
+    public void checkAcees(String user_id) {
+        new CheckAccessTask().execute(user_id);
+    }
 
-	public class CheckAccessTask extends AsyncTask<String, Void, Void> {
-		Boolean check;
+    public class CheckAccessTask extends AsyncTask<String, Void, Void> {
+        Boolean check;
         String otpfn;
 
         @Override
-		protected void onPreExecute() {
-			super.onPreExecute();
-			progressDialog.show();
-		}
+        protected void onPreExecute() {
+            super.onPreExecute();
+            progressDialog.show();
+        }
 
-		@Override
-		protected Void doInBackground(String... params) {
-			PortalServices portalServices = new PortalServices();
+        @Override
+        protected Void doInBackground(String... params) {
+            PortalServices portalServices = new PortalServices();
             String otpData = portalServices.makePortalCall(null, UrlApp.OTP, PortalServices.GET);
-			String resultData = portalServices.makePortalCall(null,
-					UrlApp.CHECK_EXPIRED + params[0]+"/"+dataStore.LoadSharedPreference(DataStore.USER_TOKEN, ""), PortalServices.GET);
-			try {
-				String decrypted = new String(mcrypt.decrypt(resultData));
-				JSONObject jsonObject = new JSONObject(decrypted);
+            String resultData = portalServices.makePortalCall(null,
+                    UrlApp.CHECK_EXPIRED + params[0] + "/" + dataStore.LoadSharedPreference(DataStore.USER_TOKEN, ""), PortalServices.GET);
+            try {
+                String decrypted = new String(mcrypt.decrypt(resultData));
+                JSONObject jsonObject = new JSONObject(decrypted);
 
                 String decrypted2 = new String(mcrypt.decrypt(otpData));
                 JSONObject jsonObject2 = new JSONObject(decrypted2);
                 String getotp = jsonObject2.getString("otp");
-				otpfn = MCrypt.bytesToHex( mcrypt.encrypt(getotp));
+                otpfn = MCrypt.bytesToHex(mcrypt.encrypt(getotp));
 
-				if (jsonObject.has("status")) {
-					String status = jsonObject.getString("status");
-					if (status.equals("1")) {
-						check = true;
-					} else {
-						check = false;
-					}
-				} else {
-					check = false;
-				}
-			} catch (Exception e) {
-				e.printStackTrace();
-				check = false;
-			}
-			return null;
-		}
-
-
-
-		@Override
-		protected void onPostExecute(Void result) {
-			super.onPostExecute(result);
-			progressDialog.dismiss();
-			if (check) {
-
-				// TODO Auto-generated method stub
-				try {
-
-					if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
-						//////added  by  tony
-						Intent intent = new Intent();
-						ComponentName comp = new ComponentName("com.mxtech.videoplayer.pro", "com.mxtech.videoplayer.ActivityScreen");
-
-						intent.setComponent(comp);
-						intent.setAction(Intent.ACTION_VIEW);
-						intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-						intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-						intent.putExtra("SourceFrom", "Network");
-						intent.putExtra("secure_uri", true);
-						intent.putExtra("video_zoom", 0);
-						startActivity(intent);
+                if (jsonObject.has("status")) {
+                    String status = jsonObject.getString("status");
+                    if (status.equals("1")) {
+                        check = true;
+                    } else {
+                        check = false;
+                    }
+                } else {
+                    check = false;
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+                check = false;
+            }
+            return null;
+        }
 
 
-					} else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
-						//////added  by  tony
-						Intent intent = new Intent();
-						ComponentName comp = new ComponentName("com.mxtech.videoplayer.ad", "com.mxtech.videoplayer.ad.ActivityScreen");
+        @Override
+        protected void onPostExecute(Void result) {
+            super.onPostExecute(result);
+            progressDialog.dismiss();
+            if (check) {
 
-						intent.setComponent(comp);
-						intent.setAction(Intent.ACTION_VIEW);
-						intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-						intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-						intent.putExtra("SourceFrom", "Network");
-						intent.putExtra("secure_uri", true);
-						intent.putExtra("video_zoom", 0);
-						startActivity(intent);
+                // TODO Auto-generated method stub
+                try {
 
-					} else if (playerInstalledOrNot("com.android.gallery3d")) {
-						//////added  by  tony
-						Intent intent = new Intent();
-						ComponentName comp = new ComponentName("com.android.gallery3d", "com.android.gallery3d.app.MovieActivity");
+                    if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+                        //////added  by  tony
+                        Intent intent = new Intent();
+                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.pro", "com.mxtech.videoplayer.ActivityScreen");
 
-						intent.setComponent(comp);
-						intent.setAction(Intent.ACTION_VIEW);
-						intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-						intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-						intent.putExtra("SourceFrom", "Network");
-						intent.putExtra("secure_uri", true);
-						intent.putExtra("video_zoom", 0);
-						startActivity(intent);
-
-					} else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
-						//////added  by  tony
-						Intent intent = new Intent();
-						ComponentName comp = new ComponentName("com.mxtech.videoplayer.gold", "com.mxtech.videoplayer.ActivityScreen");
-
-						intent.setComponent(comp);
-						intent.setAction(Intent.ACTION_VIEW);
-						intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
-						intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-						intent.putExtra("SourceFrom", "Network");
-						intent.putExtra("secure_uri", true);
-						intent.putExtra("video_zoom", 0);
-						startActivity(intent);
+                        intent.setComponent(comp);
+                        intent.setAction(Intent.ACTION_VIEW);
+                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                        intent.putExtra("SourceFrom", "Network");
+                        intent.putExtra("secure_uri", true);
+                        intent.putExtra("video_zoom", 0);
+                        startActivity(intent);
 
 
-					} else {
-						installgold atualizaApp = new installgold();
-						atualizaApp.setContext(getApplicationContext());
-						atualizaApp.execute("MXPlayer.apk");
-						Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
-						Intent intent = new Intent(TvCategoryActivity.this, Mxplayer.class);
-						startActivity(intent);
-					}
+                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+                        //////added  by  tony
+                        Intent intent = new Intent();
+                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.ad", "com.mxtech.videoplayer.ad.ActivityScreen");
+
+                        intent.setComponent(comp);
+                        intent.setAction(Intent.ACTION_VIEW);
+                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                        intent.putExtra("SourceFrom", "Network");
+                        intent.putExtra("secure_uri", true);
+                        intent.putExtra("video_zoom", 0);
+                        startActivity(intent);
+
+                    } else if (playerInstalledOrNot("com.android.gallery3d")) {
+                        //////added  by  tony
+                        Intent intent = new Intent();
+                        ComponentName comp = new ComponentName("com.android.gallery3d", "com.android.gallery3d.app.MovieActivity");
+
+                        intent.setComponent(comp);
+                        intent.setAction(Intent.ACTION_VIEW);
+                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                        intent.putExtra("SourceFrom", "Network");
+                        intent.putExtra("secure_uri", true);
+                        intent.putExtra("video_zoom", 0);
+                        startActivity(intent);
+
+                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
+                        //////added  by  tony
+                        Intent intent = new Intent();
+                        ComponentName comp = new ComponentName("com.mxtech.videoplayer.gold", "com.mxtech.videoplayer.ActivityScreen");
+
+                        intent.setComponent(comp);
+                        intent.setAction(Intent.ACTION_VIEW);
+                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                        intent.putExtra("SourceFrom", "Network");
+                        intent.putExtra("secure_uri", true);
+                        intent.putExtra("video_zoom", 0);
+                        startActivity(intent);
+
+                    } else if (playerInstalledOrNot("org.videolan.vlc")) {
+                        //////added  by  tony
+                        Intent intent = new Intent();
+                        ComponentName comp = new ComponentName("org.videolan.vlc", "org.videolan.vlc.ActivityScreen");
+
+                        intent.setComponent(comp);
+                        intent.setAction(Intent.ACTION_VIEW);
+                        intent.setData(Uri.parse(link + "&signature_id=" + otpfn));
+                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                        intent.putExtra("SourceFrom", "Network");
+                        intent.putExtra("secure_uri", true);
+                        intent.putExtra("video_zoom", 0);
+                        startActivity(intent);
 
 
-				} catch (Exception e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
+                    } else {
+                        installgold atualizaApp = new installgold();
+                        atualizaApp.setContext(getApplicationContext());
+                        atualizaApp.execute("MXPlayer.apk");
+                        Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(TvCategoryActivity.this, Mxplayer.class);
+                        startActivity(intent);
+                    }
 
 
-			}else {
-				Intent intent = new Intent(TvCategoryActivity.this, ErrorActivity.class);
-				startActivity(intent);
-				Toast.makeText(getApplicationContext(), "การเชื่อมต่อ Internet ของท่านไม่เสถียร กรุณาลองใหม่อีกครั้งในภายหลัง", Toast.LENGTH_LONG).show();
-			}
-		}
+                } catch (Exception e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
 
-		private boolean playerInstalledOrNot(String uri) {
-			PackageManager pm = getPackageManager();
-			boolean app_installed = false;
-			try {
-				pm.getPackageInfo(uri, PackageManager.GET_ACTIVITIES);
-				app_installed = true;
-			} catch (PackageManager.NameNotFoundException e) {
-				app_installed = false;
-			}
-			return app_installed;
-		}
 
-		public class installgold extends AsyncTask<String, Void, Void> {
-			private Context context;
+            } else {
+                Intent intent = new Intent(TvCategoryActivity.this, ErrorActivity.class);
+                startActivity(intent);
+                Toast.makeText(getApplicationContext(), "การเชื่อมต่อ Internet ของท่านไม่เสถียร กรุณาลองใหม่อีกครั้งในภายหลัง", Toast.LENGTH_LONG).show();
+            }
+        }
 
-			public void setContext(Context contextf) {
-				context = contextf;
-			}
+        private boolean playerInstalledOrNot(String uri) {
+            PackageManager pm = getPackageManager();
+            boolean app_installed = false;
+            try {
+                pm.getPackageInfo(uri, PackageManager.GET_ACTIVITIES);
+                app_installed = true;
+            } catch (PackageManager.NameNotFoundException e) {
+                app_installed = false;
+            }
+            return app_installed;
+        }
 
-			@Override
-			protected Void doInBackground(String... arg0) {
-				try {
-					String nameapp = (String) arg0[0];
-					String link = "http://4kmoviestar.com/New_Apk/" + nameapp;
-					URL url = new URL(link);
-					HttpURLConnection c = (HttpURLConnection) url.openConnection();
-					c.setRequestMethod("GET");
-					c.setDoOutput(true);
-					c.connect();
+        public class installgold extends AsyncTask<String, Void, Void> {
+            private Context context;
 
-					String PATH = "/mnt/sdcard/Download/";
-					File file = new File(PATH);
-					file.mkdirs();
-					File outputFile = new File(file, nameapp);
-					if (outputFile.exists()) {
-						outputFile.delete();
-					}
-					FileOutputStream fos = new FileOutputStream(outputFile);
+            public void setContext(Context contextf) {
+                context = contextf;
+            }
 
-					InputStream is = c.getInputStream();
+            @Override
+            protected Void doInBackground(String... arg0) {
+                try {
+                    String nameapp = (String) arg0[0];
+                    String link = "http://pnsat.com/mx/" + nameapp;
+                    URL url = new URL(link);
+                    HttpURLConnection c = (HttpURLConnection) url.openConnection();
+                    c.setRequestMethod("GET");
+                    c.setDoOutput(true);
+                    c.connect();
 
-					byte[] buffer = new byte[1024];
-					int len1 = 0;
-					while ((len1 = is.read(buffer)) != -1) {
-						fos.write(buffer, 0, len1);
-					}
-					fos.close();
-					is.close();
+                    String PATH = "/mnt/sdcard/Download/";
+                    File file = new File(PATH);
+                    file.mkdirs();
+                    File outputFile = new File(file, nameapp);
+                    if (outputFile.exists()) {
+                        outputFile.delete();
+                    }
+                    FileOutputStream fos = new FileOutputStream(outputFile);
 
-					Intent intent = new Intent(Intent.ACTION_VIEW);
-					intent.setDataAndType(Uri.fromFile(new File("/mnt/sdcard/Download/" + nameapp)), "application/vnd.android.package-archive");
-					intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK); // without this flag android returned a intent error!
-					context.startActivity(intent);
+                    InputStream is = c.getInputStream();
 
+                    byte[] buffer = new byte[1024];
+                    int len1 = 0;
+                    while ((len1 = is.read(buffer)) != -1) {
+                        fos.write(buffer, 0, len1);
+                    }
+                    fos.close();
+                    is.close();
+
+                    Intent intent = new Intent(Intent.ACTION_VIEW);
+                    intent.setDataAndType(Uri.fromFile(new File("/mnt/sdcard/Download/" + nameapp)), "application/vnd.android.package-archive");
+                    intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK); // without this flag android returned a intent error!
+                    context.startActivity(intent);
 
 
 //					try
@@ -393,16 +406,15 @@ public class TvCategoryActivity extends Activity {
 //						context.startActivity(intent);
 //					}
 
-				} catch (Exception e) {
-					Log.e("UpdateAPP", "Update error! " + e.getMessage());
-				}
-				return null;
-			}
-		}
+                } catch (Exception e) {
+                    Log.e("UpdateAPP", "Update error! " + e.getMessage());
+                }
+                return null;
+            }
+        }
 
 
-	}
-
+    }
 
 
 }

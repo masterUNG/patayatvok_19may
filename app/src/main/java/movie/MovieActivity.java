@@ -85,7 +85,7 @@ public class MovieActivity extends Activity {
 	}
 
 	public void checkUser() {
-		if (dataStore.checkUser()) {
+		if (true) {
 			txtUsername.setVisibility(View.VISIBLE);
 			txtExpire.setVisibility(View.VISIBLE);
 			txtUsername.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
