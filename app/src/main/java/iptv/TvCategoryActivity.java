@@ -227,19 +227,6 @@ public class TvCategoryActivity extends Activity {
                     UrlApp.CHECK_EXPIRED + params[0] + "/" + dataStore.LoadSharedPreference(DataStore.USER_TOKEN, ""), PortalServices.GET);
             String lastResultData = "13e6b0014d8cb6acc72edc8f2cbd8aa786a66a84d86d774ee5a90f5dbfc50f0f";
 
-            if (resultData.length() == 0) {
-                resultData = lastResultData;
-            }
-            Log.d(tag, "resultData ==> " + resultData);
-            try {
-                String decrypted = new String(mcrypt.decrypt(resultData));
-                JSONObject jsonObject = new JSONObject(decrypted);
-
-                String decrypted2 = new String(mcrypt.decrypt(otpData));
-                JSONObject jsonObject2 = new JSONObject(decrypted2);
-                String getotp = jsonObject2.getString("otp");
-
-                //Start Hear
                 otpfn = MCrypt.bytesToHex(mcrypt.encrypt(getotp));
                 Log.d(tag, "otpfn Calculated => " + otpfn);
 
