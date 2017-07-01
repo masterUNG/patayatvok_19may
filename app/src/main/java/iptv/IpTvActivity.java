@@ -49,18 +49,15 @@ public class IpTvActivity extends Activity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.iptv_activity_ip_tv);
 		
-
-		txtUsername = (TextView) findViewById(R.id.txtUsername_iptv);
-		txtLevel = (TextView) findViewById(R.id.txtLevel_iptv);
-		txtExpire = (TextView) findViewById(R.id.txtExpire_iptv);
-//		btnSearch = (Button) findViewById(R.id.btnSearch_main);
-		txtSlide = (TextView) findViewById(R.id.txtSlide);
-		txtSlide.setSelected(true);
+		//Initial View
+		initialView();
 		
 		dataStore = new DataStore(getBaseContext());
 
-
+		// Show Process Load
 		progressDialog = new ProgressDialog(this);
+
+		//Run Download
 		new DonwloadIpTvTask().execute();
 		
 //		btnSearch.setOnClickListener(new OnClickListener() {
@@ -73,7 +70,17 @@ public class IpTvActivity extends Activity {
 //		});
 
 
+	}	// Main Class
+
+	private void initialView() {
+		txtUsername = (TextView) findViewById(R.id.txtUsername_iptv);
+		txtLevel = (TextView) findViewById(R.id.txtLevel_iptv);
+		txtExpire = (TextView) findViewById(R.id.txtExpire_iptv);
+//		btnSearch = (Button) findViewById(R.id.btnSearch_main);
+		txtSlide = (TextView) findViewById(R.id.txtSlide);
+		txtSlide.setSelected(true);
 	}
+
 	@Override
 	protected void onResume() {
 		super.onResume();
@@ -96,14 +103,20 @@ public class IpTvActivity extends Activity {
 	}
 
 	public void showContent() {
+
+		//For Text Slide on Botton
 		txtSlide.setText(Html.fromHtml(dataStore.LoadSharedPreference(DataStore.TEXT_SLIDE, "")));
+
+		//For Calculate Display on Screen
 		MainActivity mainActivity = new MainActivity();
 		widthImg = mainActivity.getWidth(getBaseContext());
 		widthImg = widthImg/4;
 		heightImg = (int) (widthImg*1.2);
 		
-		Log.d("screen", "screen"+widthImg+"/"+heightImg);
-		
+		Log.d("1Julyv1", "screen ==> "+widthImg+"/"+heightImg);
+
+
+		//About Gallery
 		gallery = (Gallery) findViewById(R.id.gallery_iptv);
 		gallery.setFocusable(true);
 		gallery.setFocusableInTouchMode(true);

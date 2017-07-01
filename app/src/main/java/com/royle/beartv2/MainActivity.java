@@ -357,7 +357,7 @@ public class MainActivity extends FragmentActivity {
             }
         });
 
-    }
+    }   // Main Method
 
     private void clickForMember() {
         btnUserProfile.setOnClickListener(new OnClickListener() {
@@ -378,6 +378,7 @@ public class MainActivity extends FragmentActivity {
     }
 
     private void imageButtonTV() {
+
         imbTv.setOnClickListener(new OnClickListener() {
 
             @Override
