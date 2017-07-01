@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/librarySlider/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 3014
                 },
                 "from": {
-                    "file": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 3889
                 },
                 "from": {
-                    "file": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 4834
                 },
                 "from": {
-                    "file": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -73,7 +73,7 @@
                     "endOffset": 5709
                 },
                 "from": {
-                    "file": "F:\\4k\\patayatvok_19may\\librarySlider\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/librarySlider/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
