@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/user_profile.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/user_profile.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/ebook.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/ebook.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/search.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/ebook_category.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/ebook_category.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/series_detail.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/series_detail.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/movie.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/movie.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/ip_tv.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/ip_tv.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/tv_category.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/tv_category.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/movie_detail.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/movie_detail.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/activity_menu.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/news.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/news.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/series.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/series.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/movie_category.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/movie_category.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/refill.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/refill.xml"
+    },
+    {
+        "merged": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/build/intermediates/res/merged/debug/menu/web_view_ebook.xml",
+        "source": "/Users/masterUNG/MyWorkspace/Wrokspace_Project/patayatvok_19may4/app/src/main/res/menu/web_view_ebook.xml"
+    }
+]
